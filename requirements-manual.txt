@@ -1,6 +1,0 @@
-discord.py
-GitPython
-pyparsing
-aiohttp
-cchardet
-aiodns
