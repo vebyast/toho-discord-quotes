@@ -1,8 +1,13 @@
-var QUOTEDB_DOCUMENTS;
-var QUOTEDB_MAP;
-var idx;
+var QUOTEDB_DOCUMENTS = null;
+var QUOTEDB_MAP = null;
+var idx = null;
 
-$.getJSON('quotes.json', reindex);
+$.getJSON('quotes.json', gotquotes);
+
+function gotquotes(json){
+	reindex(json)
+	search_button_onclick();
+}
 
 function reindex(json) {
 	QUOTEDB_DOCUMENTS = json;
@@ -23,13 +28,11 @@ function reindex(json) {
 			this.add(doc);
 		}, this);
 	});
-
-	search_button_onclick();
 }
 
 
 
-var search_results_vue;
+var search_results_vue = null;
 $(document).ready(function() {
 	search_results_vue = new Vue({
 		el: '#search_results',
@@ -62,7 +65,7 @@ function search_button_onclick() {
 		result_documents = result_documents.slice(0, 10);
 	}
 	else {
-		search_quote_db(query);
+		result_documents = search_quote_db(query);
 	}
 	update_search_results_vue(result_documents);
 }
