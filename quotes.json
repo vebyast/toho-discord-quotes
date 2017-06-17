@@ -1,1 +1,67 @@
-[{"lines": ["[4:52 PM] veByast: Yes, that's something I definitely haven't been doing.(edited)", "[4:52 PM] veByast: I'm working off my own experience writing research papers in a hurry, which I think should transfer.", "[4:53 PM] veByast: But I can't quite replicate the part where they're getting their underlying information by speed-reading transcripts and reports requested of anyone on the Courageous that's talked to someone from the ISC."], "users": ["vebyast"], "id": 1, "uploaded": "2017-06-17T03:36Z"}, {"lines": ["[4:52 PM] veByast: AHSDFLKHJASDFHYALSIFYH."], "users": ["vebyast"], "id": 3, "uploaded": "2017-06-17T03:25Z"}, {"lines": ["[4:52 PM] asdf: TESTING"], "users": ["asdf"], "id": 2, "uploaded": "2017-06-17T03:55Z"}, {"lines": ["[2:00 AM] veByast: Pretty much the plan!", "[2:01 AM] veByast: ...The fuck am I doing.", "[2:01 AM] veByast: Why did I start writing this in node?", "[2:01 AM] veByast: I don't even know how to javascript.", "[2:01 AM] Firnagzen: Pffft", "[2:02 AM] veByast: screw this, python it is", "[2:02 AM] Firnagzen: :D", "[2:02 AM] veByast: discord client seems at least semi-reasonable.", "[2:02 AM] Firnagzen: I hope you like your asyncio"], "users": ["Firnagzen", "veByast"], "id": 4, "uploaded": "2017-06-17T09:15:08.948098"}]
+[
+  {
+    "id": 1,
+    "lines": [
+      "[4:52 PM] veByast: Yes, that's something I definitely haven't been doing.(edited)",
+      "[4:52 PM] veByast: I'm working off my own experience writing research papers in a hurry, which I think should transfer.",
+      "[4:53 PM] veByast: But I can't quite replicate the part where they're getting their underlying information by speed-reading transcripts and reports requested of anyone on the Courageous that's talked to someone from the ISC."
+    ],
+    "users": [
+      "vebyast"
+    ],
+    "uploaded": "2017-06-17T03:36Z"
+  },
+  {
+    "id": 3,
+    "lines": [
+      "[4:52 PM] veByast: AHSDFLKHJASDFHYALSIFYH."
+    ],
+    "users": [
+      "vebyast"
+    ],
+    "uploaded": "2017-06-17T03:25Z"
+  },
+  {
+    "id": 2,
+    "lines": [
+      "[4:52 PM] asdf: TESTING"
+    ],
+    "users": [
+      "asdf"
+    ],
+    "uploaded": "2017-06-17T03:55Z"
+  },
+  {
+    "id": 4,
+    "lines": [
+      "[2:00 AM] veByast: Pretty much the plan!",
+      "[2:01 AM] veByast: ...The fuck am I doing.",
+      "[2:01 AM] veByast: Why did I start writing this in node?",
+      "[2:01 AM] veByast: I don't even know how to javascript.",
+      "[2:01 AM] Firnagzen: Pffft",
+      "[2:02 AM] veByast: screw this, python it is",
+      "[2:02 AM] Firnagzen: :D",
+      "[2:02 AM] veByast: discord client seems at least semi-reasonable.",
+      "[2:02 AM] Firnagzen: I hope you like your asyncio"
+    ],
+    "users": [
+      "Firnagzen",
+      "veByast"
+    ],
+    "uploaded": "2017-06-17T09:15:08.948098"
+  },
+  {
+    "lines": [
+      "[9:46 PM] Tayta Malikai: Best you're drunk",
+      "[9:46 PM] BestBuddy: I've had one app,  one stop!",
+      "[9:46 PM] Tayta Malikai: Don't drink and post!",
+      "[9:46 PM] BestBuddy: Autocorrect is not helping my car here"
+    ],
+    "id": 5,
+    "uploaded": "2017-06-17T21:59:48.355555",
+    "users": [
+      "BestBuddy",
+      "Tayta Malikai"
+    ]
+  }
+]
