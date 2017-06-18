@@ -1,74 +1,50 @@
 [
   {
     "quoted": "2017-06-18T05:30:05.733927",
-    "id": "325869760610959361",
     "lines": [
       {
-        "timestamp": "2017-06-18T00:49:03.012000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:03.012000+00:00",
         "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found.",
         "edited": null
       },
       {
-        "timestamp": "2017-06-18T00:49:16.958000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:16.958000+00:00",
         "content": "Actually, no, that won't work at all, I don't want to maintain sessions.",
         "edited": "2017-06-18T00:49:25.441000+00:00"
       },
       {
-        "timestamp": "2017-06-18T00:49:29.311000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:29.311000+00:00",
         "content": "Bletch.",
         "edited": null
       }
-    ]
+    ],
+    "id": 325869760610959361
   },
   {
     "quoted": "2017-06-18T05:43:56.158690",
-    "id": "325873243955265536",
     "lines": [
       {
-        "timestamp": "2017-06-18T00:49:03.012000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:03.012000+00:00",
         "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found.",
         "edited": null
       },
       {
-        "timestamp": "2017-06-18T00:49:16.958000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:16.958000+00:00",
         "content": "Actually, no, that won't work at all, I don't want to maintain sessions.",
         "edited": "2017-06-18T00:49:25.441000+00:00"
       },
       {
-        "timestamp": "2017-06-18T00:49:29.311000+00:00",
         "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:29.311000+00:00",
         "content": "Bletch.",
         "edited": null
       }
-    ]
-  },
-  {
-    "quoted": "2017-06-18T06:03:40.093395",
-    "id": "325878209638039552",
-    "lines": [
-      {
-        "timestamp": "2017-06-18T00:49:03.012000+00:00",
-        "author": "vebyast",
-        "edited": null,
-        "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found."
-      },
-      {
-        "timestamp": "2017-06-18T00:49:16.958000+00:00",
-        "author": "vebyast",
-        "edited": "2017-06-18T00:49:25.441000+00:00",
-        "content": "Actually, no, that won't work at all, I don't want to maintain sessions."
-      },
-      {
-        "timestamp": "2017-06-18T00:49:29.311000+00:00",
-        "author": "vebyast",
-        "edited": null,
-        "content": "Bletch."
-      }
-    ]
+    ],
+    "id": 325873243955265536
   }
 ]
