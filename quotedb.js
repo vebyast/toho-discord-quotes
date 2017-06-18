@@ -62,7 +62,8 @@ function search_button_onclick() {
 	if (!query) {
 		result_documents = QUOTEDB_DOCUMENTS;
 		result_documents.sort(function(a, b) {
-			return a['quoted'] < b['quoted'];
+			// put largest (most recent) timestamps first
+			return a['quoted'] > b['quoted'];
 		});
 		result_documents = result_documents.slice(0, 10);
 	}
@@ -74,13 +75,15 @@ function search_button_onclick() {
 
 function search_quote_db(query) {
 	results = idx.search(query);
+	// sort from largeest score to smallest score to put most relevant results
+	// first.
+	results.sort(function(a, b) {
+		return a['score'] < b['score'];
+	});
 	result_documents = results.map(function(sr) {
 		return QUOTEDB_MAP[sr.ref]
 	});
 
-	result_documents.sort(function(a, b) {
-		return a['quoted'] < b['quoted'];
-	});
 
 	return result_documents
 };
