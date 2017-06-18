@@ -1,29 +1,5 @@
 [
   {
-    "quoted": "2017-06-18T05:30:05.733927",
-    "lines": [
-      {
-        "author": "vebyast",
-        "timestamp": "2017-06-18T00:49:03.012000+00:00",
-        "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found.",
-        "edited": null
-      },
-      {
-        "author": "vebyast",
-        "timestamp": "2017-06-18T00:49:16.958000+00:00",
-        "content": "Actually, no, that won't work at all, I don't want to maintain sessions.",
-        "edited": "2017-06-18T00:49:25.441000+00:00"
-      },
-      {
-        "author": "vebyast",
-        "timestamp": "2017-06-18T00:49:29.311000+00:00",
-        "content": "Bletch.",
-        "edited": null
-      }
-    ],
-    "id": 325869760610959361
-  },
-  {
     "quoted": "2017-06-18T05:43:56.158690",
     "lines": [
       {
