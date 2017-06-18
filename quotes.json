@@ -1,35 +1,50 @@
 [
   {
-    "id": 4,
     "lines": [
-      "[2:00 AM] veByast: Pretty much the plan!",
-      "[2:01 AM] veByast: ...The fuck am I doing.",
-      "[2:01 AM] veByast: Why did I start writing this in node?",
-      "[2:01 AM] veByast: I don't even know how to javascript.",
-      "[2:01 AM] Firnagzen: Pffft",
-      "[2:02 AM] veByast: screw this, python it is",
-      "[2:02 AM] Firnagzen: :D",
-      "[2:02 AM] veByast: discord client seems at least semi-reasonable.",
-      "[2:02 AM] Firnagzen: I hope you like your asyncio"
+      {
+        "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found.",
+        "edited": null,
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:03.012000+00:00"
+      },
+      {
+        "content": "Actually, no, that won't work at all, I don't want to maintain sessions.",
+        "edited": "2017-06-18T00:49:25.441000+00:00",
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:16.958000+00:00"
+      },
+      {
+        "content": "Bletch.",
+        "edited": null,
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:29.311000+00:00"
+      }
     ],
-    "users": [
-      "Firnagzen",
-      "veByast"
-    ],
-    "uploaded": "2017-06-17T09:15:08.948098"
+    "id": "325869760610959361",
+    "quoted": "2017-06-18T05:30:05.733927"
   },
   {
     "lines": [
-      "[9:46 PM] Tayta Malikai: Best you're drunk",
-      "[9:46 PM] BestBuddy: I've had one app,  one stop!",
-      "[9:46 PM] Tayta Malikai: Don't drink and post!",
-      "[9:46 PM] BestBuddy: Autocorrect is not helping my car here"
+      {
+        "content": "Grrr. Make the links excerpts from the matched messages, then, and delete it when found.",
+        "edited": null,
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:03.012000+00:00"
+      },
+      {
+        "content": "Actually, no, that won't work at all, I don't want to maintain sessions.",
+        "edited": "2017-06-18T00:49:25.441000+00:00",
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:16.958000+00:00"
+      },
+      {
+        "content": "Bletch.",
+        "edited": null,
+        "author": "vebyast",
+        "timestamp": "2017-06-18T00:49:29.311000+00:00"
+      }
     ],
-    "id": 5,
-    "uploaded": "2017-06-17T21:59:48.355555",
-    "users": [
-      "BestBuddy",
-      "Tayta Malikai"
-    ]
+    "id": "325873243955265536",
+    "quoted": "2017-06-18T05:43:56.158690"
   }
 ]
