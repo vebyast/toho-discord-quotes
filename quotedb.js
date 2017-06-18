@@ -86,6 +86,7 @@ function search_quote_db(query) {
 function update_search_results_vue(result_documents) {
 	result_output = result_documents.map(function(sr) {
 		return {
+			"id": sr['id'],
 			"uploaded": (new Date(sr["uploaded"])).toLocaleString(),
 			"lines": sr["lines"],
 		}
