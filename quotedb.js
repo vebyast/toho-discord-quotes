@@ -15,17 +15,19 @@ function reindex(json) {
 	QUOTEDB_MAP = {};
 	QUOTEDB_DOCUMENTS.forEach(function (doc) {
 		QUOTEDB_MAP[doc['id']] = doc;
-		doc['text'] = doc['lines'].join("<br />");
-		doc['uploaded'] = Date.parse(doc['uploaded']);
 	});
 
 	idx = lunr(function () {
 		this.ref('id');
-		this.field('text');
-		this.field('users');
+		this.field('lines');
+		this.field('authors');
 
 		QUOTEDB_DOCUMENTS.forEach(function (doc) {
-			this.add(doc);
+			this.add({
+				'id': doc['id'],
+				'lines': doc['lines'].map(function (line) { return line['content'] }),
+				'authors': doc['lines'].map(function (line) { return line['author'] }),
+			});
 		}, this);
 	});
 }
@@ -60,7 +62,7 @@ function search_button_onclick() {
 	if (!query) {
 		result_documents = QUOTEDB_DOCUMENTS;
 		result_documents.sort(function(a, b) {
-			return a["uploaded"] < b["uploaded"];
+			return a['quoted'] < b['quoted'];
 		});
 		result_documents = result_documents.slice(0, 10);
 	}
@@ -77,7 +79,7 @@ function search_quote_db(query) {
 	});
 
 	result_documents.sort(function(a, b) {
-		return a["uploaded"] < b["uploaded"];
+		return a['quoted'] < b['quoted'];
 	});
 
 	return result_documents
@@ -86,9 +88,16 @@ function search_quote_db(query) {
 function update_search_results_vue(result_documents) {
 	result_output = result_documents.map(function(sr) {
 		return {
-			"id": sr['id'],
-			"uploaded": (new Date(sr["uploaded"])).toLocaleString(),
-			"lines": sr["lines"],
+			'id': sr['id'],
+			'quoted': (new Date(sr['quoted'])).toLocaleString(),
+			'lines': sr['lines'].map(function (line) {
+				return {
+					'content': line['content'],
+					'author': line['author'],
+					'timestamp': (new Date(line['timestamp'])).toLocaleString(),
+					'edited': line['edited'],
+				}
+			}),
 		}
 	});
 	search_results_vue.search_results = result_output;

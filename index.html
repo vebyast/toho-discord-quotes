@@ -9,10 +9,10 @@
 <div id="search_results">
   <ul>
 	<li v-for="search_result in search_results">
-	  #{{search_result.id}}: Uploaded {{search_result.uploaded}}:
+	  {{search_result.id}}: Uploaded {{search_result.quoted}}:
 	  <ul>
 	  	<li v-for="line in search_result.lines">
-	  	  {{line}}
+	  	  [{{line.timestamp}}] {{line.author}}: {{line.content}}
 	  	</li>
 	  </ul>
 	</li>
