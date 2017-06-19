@@ -21,7 +21,7 @@ $(document).ready(function() {
 		}
 	});
 	// 'refresh', basically, now that the vue thing is ready
-	Path.dispatch(window.location.hash)
+	Path.dispatch(window.location.hash);
 });
 
 // set up a key event so hitting 'enter' on the searchbox executes a search
@@ -36,9 +36,9 @@ $(document).ready(function() {
 
 // does searches.
 Path.map('#/search/:query').to(function() {
-	query = decodeURIComponent(this.params['query'])
+	query = decodeURIComponent(this.params['query']);
 	console.log("searching: " + query);
-	display_from_query(query)
+	display_from_query(query);
 });
 
 // directly link to a quote
@@ -51,14 +51,14 @@ Path.map('#/quote_id/:quote_id').to(function() {
 // landing page is thing, show all quote
 Path.map('#/default').to(function() {
 	console.log("default");
-	display_all()
+	display_all();
 });
 
 // executed when we finish getting the quotes json: reindex and 'refresh'
 function gotquotes(json){
 	reindex(json);
-	Path.dispatch(window.location.hash)
-}
+	Path.dispatch(window.location.hash);
+};
 
 // create the quotes database and lunr index from the given object, which should
 // be an array of quote objects
@@ -83,7 +83,7 @@ function reindex(json) {
 			});
 		}, this);
 	});
-}
+};
 
 // if we have a query in the box, go to do a query. if the box is empty, go to
 // show all results.
@@ -94,8 +94,8 @@ function search_button_onclick() {
 	}
 	else {
 		window.location.hash = '#/default';
-	}
-}
+	};
+};
 
 // update vue to display a single quote identified by its ID
 function display_from_id(id) {
@@ -103,7 +103,7 @@ function display_from_id(id) {
 		var result_documents = [QUOTEDB_MAP[id]];
 		update_search_results_vue(result_documents);
 	};
-}
+};
 
 // update vue to display 'all' quotes, which ius really the ten most recently
 // uploaded
@@ -115,14 +115,14 @@ function display_all() {
 	});
 	result_documents = result_documents.slice(0, 10);
 	update_search_results_vue(result_documents);
-}
+};
 
 // update vue to display results that match the given lunr query
 function display_from_query(query) {
 	if (!idx) { return; };
 	var result_documents = search_quote_db(query);
 	update_search_results_vue(result_documents);
-}
+};
 
 // do a search against lunr and return the set of documents that results
 function search_quote_db(query) {
@@ -132,10 +132,10 @@ function search_quote_db(query) {
 		return a['score'] < b['score'];
 	});
 	result_documents = results.map(function(sr) {
-		return QUOTEDB_MAP[sr.ref]
+		return QUOTEDB_MAP[sr.ref];
 	});
 
-	return result_documents
+	return result_documents;
 };
 
 // update vue with the data for the current set of documents
@@ -153,15 +153,16 @@ function update_search_results_vue(result_documents) {
 					'author': line['author'],
 					'timestamp': (new Date(line['timestamp'])).toLocaleString(),
 					'edited': line['edited'],
-				}
+				};
 			}),
-		}
+		};
 	});
 	search_results_vue.search_results = result_output;
-}
+};
 
 function fixedEncodeURIComponent(str) {
   return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
     return '%' + c.charCodeAt(0).toString(16);
   });
-}
+};
+
