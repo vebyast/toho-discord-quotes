@@ -116,5 +116,43 @@
       }
     ],
     "quoted": "2017-06-19T00:04:20.077957"
+  },
+  {
+    "id": 326150545201168397,
+    "lines": [
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T00:04:17.472000+00:00",
+        "edited": null,
+        "content": "Okay, let's see if this works.",
+        "server": "Sabrina's Head"
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T00:04:19.672000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add -S 304048123972681728 -E 304048379745402880",
+        "server": "Sabrina's Head"
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-19T00:04:19.778000+00:00",
+        "edited": "2017-06-19T00:04:27.142000+00:00",
+        "content": "Done with /add! Quote ID: 326150168183570433. Quoted 14: **Mami:** `pants are evil` to **Mami:** `_chases @Sabrina_`\nYou can view this bot's quotes at <https://vebyast.github.io/pmas-discord-quotes/>",
+        "server": "Sabrina's Head"
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T00:04:25.947000+00:00",
+        "edited": "2017-06-19T00:05:05.578000+00:00",
+        "content": "YUS. Now we just have to wait for that to propagate through the CDNs so it'll show up in the UI.",
+        "server": "Sabrina's Head"
+      }
+    ],
+    "quoted": "2017-06-19T00:05:50.081817"
   }
 ]
