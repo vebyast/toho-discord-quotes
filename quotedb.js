@@ -2,6 +2,7 @@ var QUOTEDB_DOCUMENTS = null;
 var QUOTEDB_MAP = null;
 var idx = null;
 var search_results_vue = null;
+var markdown_renderer = window.markdownit();
 
 // grab the quotes json and set up lunr
 $.getJSON('quotes.json', gotquotes);
@@ -150,8 +151,9 @@ function update_search_results_vue(result_documents) {
 			'lines': sr['lines'].map(function (line) {
 				return {
 					'content': line['content'],
+					'htmlcontent': quoteLineToMarkdown(line),
 					'author': line['author'],
-					'timestamp': (new Date(line['timestamp'])).toLocaleString(),
+					'timestamp': transformTimestamp(line['timestamp']),
 					'edited': line['edited'],
 				};
 			}),
@@ -166,3 +168,13 @@ function fixedEncodeURIComponent(str) {
   });
 };
 
+function transformTimestamp(ts) {
+	return (new Date(ts)).toLocaleString();
+};
+
+function quoteLineToMarkdown(line) {
+	md = '[' + transformTimestamp(line['timestamp']) + ']' + ' '
+		+ '**' + line['author'] + '**' + ': '
+		+ line['content'];
+	return markdown_renderer.renderInline(md);
+};
