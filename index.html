@@ -1,6 +1,8 @@
 <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="https://unpkg.com/vue"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js" integrity="sha256-+J5cSgDOPu6OT8mt+r5f7/cmvICoEmNdK2ZGz8ql8wc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/path.js/0.8.4/path.min.js" integrity="sha256-7Nm5pPipMrlpGKMkoaMrPsuGnoJnMUSBYEvCr9LSs/k=" crossorigin="anonymous"></script>
+
 <script src="quotedb.js"></script>
 
 <input type="text" id="search_query_box" />
@@ -9,7 +11,7 @@
 <div id="search_results">
   <ul>
 	<li v-for="search_result in search_results">
-	  {{search_result.id}}: Uploaded {{search_result.quoted}}:
+	  <a v-bind:href="search_result.href">{{search_result.id}}</a>: Uploaded {{search_result.quoted}}:
 	  <ul>
 	  	<li v-for="line in search_result.lines">
 	  	  [{{line.timestamp}}] {{line.author}}: {{line.content}}
