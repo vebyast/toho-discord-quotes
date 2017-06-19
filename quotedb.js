@@ -4,16 +4,12 @@ var idx = null;
 var search_results_vue = null;
 var markdown_renderer = window.markdownit();
 
-// grab the quotes json and set up lunr
-$.getJSON('quotes.json', gotquotes);
-
 // set up pathjs
 $(document).ready(function() {
 	Path.root('#/default');
-	Path.listen();
 });
 
-// set up vue
+// set up vue and then 'refresh'
 $(document).ready(function() {
 	search_results_vue = new Vue({
 		el: '#search_results',
@@ -21,8 +17,11 @@ $(document).ready(function() {
 			search_results: [],
 		}
 	});
-	// 'refresh', basically, now that the vue thing is ready
-	Path.dispatch(window.location.hash);
+	// grab the quotes json, set up lunr, and finally start start working
+	$.getJSON('quotes.json', function(json) {
+		reindex(json);
+		Path.listen();
+	});
 });
 
 // set up a key event so hitting 'enter' on the searchbox executes a search
@@ -54,12 +53,6 @@ Path.map('#/default').to(function() {
 	console.log("default");
 	display_all();
 });
-
-// executed when we finish getting the quotes json: reindex and 'refresh'
-function gotquotes(json){
-	reindex(json);
-	Path.dispatch(window.location.hash);
-};
 
 // create the quotes database and lunr index from the given object, which should
 // be an array of quote objects
@@ -159,6 +152,7 @@ function update_search_results_vue(result_documents) {
 			}),
 		};
 	});
+
 	search_results_vue.search_results = result_output;
 };
 

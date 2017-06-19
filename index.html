@@ -9,7 +9,7 @@
 <input type="text" id="search_query_box" />
 <input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
 
-<div id="search_results">
+<div id="search_results" v-cloak>
   <ul>
 	<li v-for="search_result in search_results">
 	  <a v-bind:href="search_result.href">{{search_result.id}}</a>: Uploaded {{search_result.quoted}}:
