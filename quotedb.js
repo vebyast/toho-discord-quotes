@@ -173,8 +173,5 @@ function transformTimestamp(ts) {
 };
 
 function quoteLineToMarkdown(line) {
-	md = '[' + transformTimestamp(line['timestamp']) + ']' + ' '
-		+ '**' + line['author'] + '**' + ': '
-		+ line['content'];
-	return markdown_renderer.renderInline(md);
+	return markdown_renderer.renderInline(line['content']);
 };

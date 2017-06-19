@@ -15,7 +15,7 @@
 	  <a v-bind:href="search_result.href">{{search_result.id}}</a>: Uploaded {{search_result.quoted}}:
 	  <ul>
 	  	<li v-for="line in search_result.lines">
-		  <div v-html="line.htmlcontent"></div>
+		  [{{line.timestamp}}] <b>{{line.author}}</b>: <span v-html="line.htmlcontent"></span>
 	  	</li>
 	  </ul>
 	</li>
