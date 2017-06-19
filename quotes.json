@@ -154,5 +154,38 @@
       }
     ],
     "quoted": "2017-06-19T05:00:45.520626"
+  },
+  {
+    "id": 326236287852085248,
+    "lines": [
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T04:48:12.824000+00:00",
+        "edited": null,
+        "content": "test message one",
+        "server": "vebyast-test-server",
+        "channel": "bot-abuse"
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T04:48:14.414000+00:00",
+        "edited": null,
+        "content": "test message two",
+        "server": "vebyast-test-server",
+        "channel": "bot-abuse"
+      },
+      {
+        "author": "vebyast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-19T04:48:16.015000+00:00",
+        "edited": null,
+        "content": "test message three",
+        "server": "vebyast-test-server",
+        "channel": "bot-abuse"
+      }
+    ],
+    "quoted": "2017-06-19T05:46:32.759765"
   }
 ]
