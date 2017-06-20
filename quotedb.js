@@ -105,7 +105,7 @@ function display_all() {
 	var result_documents = QUOTEDB_DOCUMENTS;
 	result_documents.sort(function(a, b) {
 		// put largest (most recent) timestamps first
-		return a['quoted'] > b['quoted'];
+		return a['quoted'] < b['quoted'];
 	});
 	result_documents = result_documents.slice(0, 10);
 	update_search_results_vue(result_documents);
