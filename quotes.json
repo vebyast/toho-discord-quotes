@@ -199,5 +199,45 @@
       }
     ],
     "quoted": "2017-06-19T13:30:30.352699"
+  },
+  {
+    "id": "326898983777730561",
+    "lines": [
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-20T07:05:05.748000+00:00",
+        "edited": null,
+        "content": "Oops, I didn't see, sorry",
+        "color": "0x000000"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-20T07:05:34.127000+00:00",
+        "edited": null,
+        "content": "Hrrrrrh.",
+        "color": "0x000000"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-20T07:05:43.045000+00:00",
+        "edited": null,
+        "content": "Go look at Better Discord, maybe?",
+        "color": "0x000000"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-20T07:06:04.593000+00:00",
+        "edited": null,
+        "content": "It's a stylable discord - which means a lot of stuff must be exposed.",
+        "color": "0x000000"
+      }
+    ],
+    "quoted": "2017-06-21T01:39:52.151145",
+    "server": "vebyast-test-server",
+    "channel": "general"
   }
 ]
