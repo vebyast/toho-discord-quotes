@@ -1,23 +1,36 @@
-<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js" integrity="sha256-+J5cSgDOPu6OT8mt+r5f7/cmvICoEmNdK2ZGz8ql8wc=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/path.js/0.8.4/path.min.js" integrity="sha256-7Nm5pPipMrlpGKMkoaMrPsuGnoJnMUSBYEvCr9LSs/k=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.3.1/markdown-it.min.js" integrity="sha256-3WZyZQOe+ql3pLo90lrkRtALrlniGdnf//gRpW0UQks=" crossorigin="anonymous"></script>
+<!DOCTYPE html>
+<head>
+  <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js" integrity="sha256-+J5cSgDOPu6OT8mt+r5f7/cmvICoEmNdK2ZGz8ql8wc=" crossorigin="anonymous"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.js" integrity="sha256-sawP1sLkcaA4YQJQWAtjahamgG6brGmaIJWRhYwDfno=" crossorigin="anonymous"></script> -->
 
-<script src="quotedb.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/path.js/0.8.4/path.min.js" integrity="sha256-7Nm5pPipMrlpGKMkoaMrPsuGnoJnMUSBYEvCr9LSs/k=" crossorigin="anonymous"></script>
 
-<input type="text" id="search_query_box" />
-<input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
+  <script src="quotedb.js"></script>
 
-<div id="search_results" v-cloak>
-  <ul>
-	<li v-for="search_result in search_results">
-	  <a v-bind:href="search_result.href">{{search_result.id}}</a>: Uploaded {{search_result.quoted}}:
-	  <ul>
-	  	<li v-for="line in search_result.lines">
-		  [{{line.timestamp}}] <b>{{line.author}}</b>: <span v-html="line.htmlcontent"></span>
-	  	</li>
-	  </ul>
-	</li>
-  </ul>
-</div>
+  <link rel="stylesheet" href="style.css"></link>
+</head>
+<body>
+
+  <div class="search-form-div">
+	<input type="text" id="search_query_box" />
+	<input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
+  </div>
+
+  <div id="search_results" class="search-results" v-cloak>
+	<div class="quote" v-for="search_result in search_results">
+	  <span class="quote-permalink"><a v-bind:href="search_result.href">#{{search_result.id}}</a></span>
+	  <span class="quote-text">In</span>
+	  <span class="quote-channel">#{{search_result.channel}}</span>
+	  <span class="quote-text">on {{search_result.server}}</span>
+	  <span class="quote-timestamp">(uploaded {{search_result.quoted}})</span>
+	  <div v-for="line in search_result.lines" class="message">
+		<span class="message-timestamp">[{{line.timestamp}}]</span>
+		<span class="message-author" v-bind:style="line.style"><strong>{{line.author}}</strong></span>
+		<span class="message-content">{{line.content}}</span>
+	  </div>
+	</div>
+  </div>
+
+</body>

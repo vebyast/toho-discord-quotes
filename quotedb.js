@@ -2,7 +2,6 @@ var QUOTEDB_DOCUMENTS = null;
 var QUOTEDB_MAP = null;
 var idx = null;
 var search_results_vue = null;
-var markdown_renderer = window.markdownit();
 
 // set up pathjs
 $(document).ready(function() {
@@ -37,20 +36,17 @@ $(document).ready(function() {
 // does searches.
 Path.map('#/search/:query').to(function() {
 	query = decodeURIComponent(this.params['query']);
-	console.log("searching: " + query);
 	display_from_query(query);
 });
 
 // directly link to a quote
 Path.map('#/quote_id/:quote_id').to(function() {
-	console.log("going to quote: " + this.params['quote_id']);
-	id = Number(this.params['query']);
+	id = this.params['query'];
 	display_from_id(id);
 });
 
 // landing page is thing, show all quote
 Path.map('#/default').to(function() {
-	console.log("default");
 	display_all();
 });
 
@@ -138,16 +134,20 @@ function update_search_results_vue(result_documents) {
 
 	result_output = result_documents.map(function(sr) {
 		return {
-			'id': sr['id'],
-			'href': '#/quote_id/' + sr['id'],
-			'quoted': (new Date(sr['quoted'])).toLocaleString(),
-			'lines': sr['lines'].map(function (line) {
+			id: sr['id'],
+			href: '#/quote_id/' + sr['id'],
+			quoted: (new Date(sr['quoted'])).toLocaleString(),
+			server: sr['server'],
+			channel: sr['channel'],
+			lines: sr['lines'].map(function (line) {
 				return {
-					'content': line['content'],
-					'htmlcontent': quoteLineToMarkdown(line),
-					'author': line['author'],
-					'timestamp': transformTimestamp(line['timestamp']),
-					'edited': line['edited'],
+					content: line['content'],
+					author: line['author'],
+					timestamp: transformTimestamp(line['timestamp']),
+					edited: line['edited'],
+					style: {
+						color: line['authorcolor'],
+					},
 				};
 			}),
 		};
@@ -164,8 +164,4 @@ function fixedEncodeURIComponent(str) {
 
 function transformTimestamp(ts) {
 	return (new Date(ts)).toLocaleString();
-};
-
-function quoteLineToMarkdown(line) {
-	return markdown_renderer.renderInline(line['content']);
 };
