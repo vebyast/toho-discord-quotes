@@ -3930,5 +3930,21 @@
     "quoted": "2017-06-21T02:57:16.722565",
     "server": "Sabrina's Head",
     "channel": "pmas"
+  },
+  {
+    "id": "326987202817163265",
+    "lines": [
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:29:31.377000+00:00",
+        "edited": null,
+        "content": "/lewd",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-21T07:30:25.189540",
+    "server": "Sabrina's Head",
+    "channel": "bot-abuse"
   }
 ]
