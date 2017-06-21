@@ -3946,5 +3946,125 @@
     "quoted": "2017-06-21T07:30:25.189540",
     "server": "Sabrina's Head",
     "channel": "bot-abuse"
+  },
+  {
+    "id": "327096175247360021",
+    "lines": [
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T07:26:42.983000+00:00",
+        "edited": null,
+        "content": "/add /lewd",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:27:03.279000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add /pervert",
+        "authorcolor": null
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-21T07:27:03.377000+00:00",
+        "edited": "2017-06-21T07:27:03.485000+00:00",
+        "content": "```one of the arguments -S/--start_id -s/--start is required ```",
+        "authorcolor": null
+      },
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T07:27:07.582000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add Lizard girl",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-21T07:27:07.632000+00:00",
+        "edited": "2017-06-21T07:27:07.701000+00:00",
+        "content": "```one of the arguments -S/--start_id -s/--start is required ```",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:27:27.410000+00:00",
+        "edited": null,
+        "content": "@veByast /add -s /lewd",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:27:31.535000+00:00",
+        "edited": null,
+        "content": "Whoops",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:27:56.128000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add -s /lewd",
+        "authorcolor": null
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-21T07:27:56.276000+00:00",
+        "edited": "2017-06-21T07:27:56.332000+00:00",
+        "content": "```one of the arguments -E/--end_id -e/--end is required ```",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:28:04.858000+00:00",
+        "edited": null,
+        "content": "Could have mentioned that the first time...",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:28:32.031000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add -s /lewd -e",
+        "authorcolor": null
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-21T07:28:32.132000+00:00",
+        "edited": "2017-06-21T07:28:32.189000+00:00",
+        "content": "```argument -e/--end: expected one argument ```",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:28:42.111000+00:00",
+        "edited": null,
+        "content": "... Off to bot abuse",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T07:30:51.693000+00:00",
+        "edited": null,
+        "content": "So it quotes me rather than Firnbot",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-21T14:43:25.858217",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
