@@ -4,6 +4,7 @@
     "lines": [
       {
         "author": "Mami",
+        "authorcolor": "#f1c40f",
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:18:41.696000+00:00",
         "edited": null,
@@ -12,6 +13,7 @@
       },
       {
         "author": "Sabrina",
+        "authorcolor": "#206694",
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:10.844000+00:00",
         "edited": null,
@@ -20,6 +22,7 @@
       },
       {
         "author": "Firnagzen",
+        "authorcolor": "#992D22",
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:11.553000+00:00",
         "edited": null,
@@ -28,6 +31,7 @@
       },
       {
         "author": "pantherasapiens",
+        "authorcolor": "#e91e63",
         "author_id": "266869055464407061",
         "timestamp": "2017-04-19T00:19:12.755000+00:00",
         "edited": null,
@@ -36,6 +40,7 @@
       },
       {
         "author": "Sabrina",
+        "authorcolor": "#206694",
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:15.119000+00:00",
         "edited": null,
@@ -44,6 +49,7 @@
       },
       {
         "author": "Sabrina",
+        "authorcolor": "#206694",
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:17.811000+00:00",
         "edited": null,
@@ -52,6 +58,7 @@
       },
       {
         "author": "Firnagzen",
+        "authorcolor": "#992D22",
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:18.529000+00:00",
         "edited": null,
@@ -60,6 +67,7 @@
       },
       {
         "author": "Sabrina",
+        "authorcolor": "#206694",
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:19.912000+00:00",
         "edited": null,
@@ -76,6 +84,7 @@
       },
       {
         "author": ".",
+        "authorcolor": "#06393e",
         "author_id": "189628169299427328",
         "timestamp": "2017-04-19T00:19:20.437000+00:00",
         "edited": null,
@@ -84,6 +93,7 @@
       },
       {
         "author": "Firnagzen",
+        "authorcolor": "#992D22",
         "author_id": "178020704774520833",
         "timestamp": "2017-04-19T00:19:20.585000+00:00",
         "edited": null,
@@ -92,6 +102,7 @@
       },
       {
         "author": "Mami",
+        "authorcolor": "#f1c40f",
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:19:32.230000+00:00",
         "edited": null,
@@ -100,6 +111,7 @@
       },
       {
         "author": "Sabrina",
+        "authorcolor": "#206694",
         "author_id": "252581296436412416",
         "timestamp": "2017-04-19T00:19:33.186000+00:00",
         "edited": null,
@@ -108,6 +120,7 @@
       },
       {
         "author": "Mami",
+        "authorcolor": "#f1c40f",
         "author_id": "222505900001198081",
         "timestamp": "2017-04-19T00:19:42.677000+00:00",
         "edited": null,
@@ -163,6 +176,7 @@
     "lines": [
       {
         "author": "Firnagzen",
+        "authorcolor": "#992D22",
         "author_id": "178020704774520833",
         "timestamp": "2017-06-19T08:38:22.495000+00:00",
         "edited": null,
@@ -178,6 +192,7 @@
     "lines": [
       {
         "author": "Firnagzen",
+        "authorcolor": "#992D22",
         "author_id": "178020704774520833",
         "timestamp": "2017-06-19T08:38:22.495000+00:00",
         "edited": null,
@@ -193,6 +208,7 @@
     "lines": [
       {
         "author": "AuraTwilight",
+        "authorcolor": "#E67E22",
         "author_id": "157027749314166784",
         "timestamp": "2017-03-24T00:02:49.235000+00:00",
         "edited": null,
@@ -202,69 +218,5 @@
       }
     ],
     "quoted": "2017-06-19T13:30:30.352699"
-  },
-  {
-    "id": "326898983777730561",
-    "lines": [
-      {
-        "author": "Firnagzen",
-        "author_id": "178020704774520833",
-        "timestamp": "2017-06-20T07:05:05.748000+00:00",
-        "edited": null,
-        "content": "Oops, I didn't see, sorry",
-        "color": "0x000000"
-      },
-      {
-        "author": "Firnagzen",
-        "author_id": "178020704774520833",
-        "timestamp": "2017-06-20T07:05:34.127000+00:00",
-        "edited": null,
-        "content": "Hrrrrrh.",
-        "color": "0x000000"
-      },
-      {
-        "author": "Firnagzen",
-        "author_id": "178020704774520833",
-        "timestamp": "2017-06-20T07:05:43.045000+00:00",
-        "edited": null,
-        "content": "Go look at Better Discord, maybe?",
-        "color": "0x000000"
-      },
-      {
-        "author": "Firnagzen",
-        "author_id": "178020704774520833",
-        "timestamp": "2017-06-20T07:06:04.593000+00:00",
-        "edited": null,
-        "content": "It's a stylable discord - which means a lot of stuff must be exposed.",
-        "color": "0x000000"
-      }
-    ],
-    "quoted": "2017-06-21T01:39:52.151145",
-    "server": "vebyast-test-server",
-    "channel": "general"
-  },
-  {
-    "id": "326900945701044224",
-    "lines": [
-      {
-        "author": "veByast",
-        "author_id": "248980478416125952",
-        "timestamp": "2017-06-21T00:51:12.323000+00:00",
-        "edited": null,
-        "content": "^^\u30b4 \n^^^^\u30b4\n^^^^\u30b4\n^^^\u30b4\n^\u30b4\n^^\u30b4\n^\u30b4\n^\u30b4\n\u30b4",
-        "authorcolor": "0x9B59B6"
-      },
-      {
-        "author": "veByast",
-        "author_id": "248980478416125952",
-        "timestamp": "2017-06-21T00:51:15.923000+00:00",
-        "edited": null,
-        "content": "awww, no superscript.",
-        "authorcolor": "0x9B59B6"
-      }
-    ],
-    "quoted": "2017-06-21T01:47:39.472755",
-    "server": "Sabrina's Head",
-    "channel": "bot-abuse"
   }
 ]
