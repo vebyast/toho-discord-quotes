@@ -3969,5 +3969,37 @@
     "quoted": "2017-06-21T14:43:25.858217",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "327230464903610378",
+    "lines": [
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-21T23:31:33.848000+00:00",
+        "edited": null,
+        "content": "Gettng up early is great!",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-06-21T23:31:44.889000+00:00",
+        "edited": null,
+        "content": "*snrrk*",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-21T23:32:10.826000+00:00",
+        "edited": null,
+        "content": ">Quote the morning person",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-21T23:37:03.227134",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
