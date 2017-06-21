@@ -220,30 +220,6 @@
     "quoted": "2017-06-19T13:30:30.352699"
   },
   {
-    "id": "326911717504188420",
-    "lines": [
-      {
-        "author": "veByast",
-        "author_id": "248980478416125952",
-        "timestamp": "2017-06-21T02:30:16.376000+00:00",
-        "edited": null,
-        "content": "test post one",
-        "authorcolor": "#9B59B6"
-      },
-      {
-        "author": "veByast",
-        "author_id": "248980478416125952",
-        "timestamp": "2017-06-21T02:30:17.825000+00:00",
-        "edited": null,
-        "content": "test post two",
-        "authorcolor": "#9B59B6"
-      }
-    ],
-    "quoted": "2017-06-21T02:30:28.029367",
-    "server": "Sabrina's Head",
-    "channel": "bot-abuse"
-  },
-  {
     "id": "326918464725975051",
     "lines": [
       {
