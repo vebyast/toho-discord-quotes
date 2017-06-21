@@ -31,6 +31,10 @@
 		<span class="message-author" v-bind:style="line.style"><strong>{{line.author}}</strong></span>
 		<span class="message-content">{{line.content}}</span>
 	  </div>
+	  <div v-if="search_result.truncated" class="quote-truncated-message">
+		<span class="quote-truncated-text">Long quote, {{search_result.truncated}} lines truncated.</span>
+		<span class="quote-truncated-link"><a v-bind:href="search_result.href">Click to go to full quote.</a></span>
+	  </div>
 	</div>
   </div>
 

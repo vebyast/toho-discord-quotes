@@ -3,6 +3,8 @@ var QUOTEDB_MAP = null;
 var idx = null;
 var search_results_vue = null;
 
+const TRUNCATE_LENGTH = 25;
+
 // set up pathjs
 $(document).ready(function() {
 	Path.root('#/default');
@@ -132,14 +134,25 @@ function search_quote_db(query) {
 function update_search_results_vue({result_documents, truncate=false}) {
 	if (!search_results_vue) { return; };
 
-	result_output = result_documents.map(function(sr) {
+	var result_output = result_documents.map(function(sr) {
+		var lines = [];
+		var truncated = 0;
+		if (truncate && sr['lines'].length > TRUNCATE_LENGTH) {
+			truncated = sr['lines'].length - TRUNCATE_LENGTH;
+			lines = sr['lines'].slice(0, TRUNCATE_LENGTH);
+		}
+		else {
+			lines = sr['lines'];
+		}
+
 		return {
 			id: sr['id'],
 			href: '#/quote_id/' + sr['id'],
 			quoted: (new Date(sr['quoted'])).toLocaleString(),
 			server: sr['server'],
 			channel: sr['channel'],
-			lines: sr['lines'].map(function (line) {
+			truncated: truncated,
+			lines: lines.map(function (line) {
 				return {
 					content: line['content'],
 					author: line['author'],

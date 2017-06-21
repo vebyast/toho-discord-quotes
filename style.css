@@ -114,6 +114,22 @@ body {
 	font-size: 15px;
 }
 
+.quote-truncated-message {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	line-height: 18px;
+	padding-left: 180px;
+	color: rgba(255, 255, 255, 0.7);
+	display: block;
+	text-indent: -100px;
+	font-size: 15px;
+}
+
+.quote-truncated-text {
+	color: rgba(255, 255, 255, 0.7);
+	padding-left: 20px;
+}
+
 .message-timestamp {
 	padding-right: 5px;
 	color: rgba(255, 255, 255, 0.2);
@@ -129,7 +145,7 @@ body {
 }
 
 .message-content {
-	white-space: pre;
+	white-space: pre-wrap;
 }
 
 .message-markdown {
