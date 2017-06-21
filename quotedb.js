@@ -35,13 +35,13 @@ $(document).ready(function() {
 
 // does searches.
 Path.map('#/search/:query').to(function() {
-	query = decodeURIComponent(this.params['query']);
+	var query = decodeURIComponent(this.params['query']);
 	display_from_query(query);
 });
 
 // directly link to a quote
 Path.map('#/quote_id/:quote_id').to(function() {
-	id = this.params['query'];
+	var id = this.params['query'];
 	display_from_id(id);
 });
 
@@ -91,7 +91,7 @@ function search_button_onclick() {
 function display_from_id(id) {
 	if (id in QUOTEDB_MAP) {
 		var result_documents = [QUOTEDB_MAP[id]];
-		update_search_results_vue(result_documents);
+		update_search_results_vue({result_documents, truncate: false});
 	};
 };
 
@@ -104,24 +104,24 @@ function display_all() {
 		return a['quoted'] < b['quoted'];
 	});
 	result_documents = result_documents.slice(0, 10);
-	update_search_results_vue(result_documents);
+	update_search_results_vue({result_documents, truncate: true});
 };
 
 // update vue to display results that match the given lunr query
 function display_from_query(query) {
 	if (!idx) { return; };
 	var result_documents = search_quote_db(query);
-	update_search_results_vue(result_documents);
+	update_search_results_vue({result_documents, truncate: true});
 };
 
 // do a search against lunr and return the set of documents that results
 function search_quote_db(query) {
-	results = idx.search(query);
+	var results = idx.search(query);
 	// sort from largest score to smallest score to sort relevant results first
 	results.sort(function(a, b) {
 		return a['score'] < b['score'];
 	});
-	result_documents = results.map(function(sr) {
+	var result_documents = results.map(function(sr) {
 		return QUOTEDB_MAP[sr.ref];
 	});
 
@@ -129,7 +129,7 @@ function search_quote_db(query) {
 };
 
 // update vue with the data for the current set of documents
-function update_search_results_vue(result_documents) {
+function update_search_results_vue({result_documents, truncate=false}) {
 	if (!search_results_vue) { return; };
 
 	result_output = result_documents.map(function(sr) {
