@@ -68,7 +68,7 @@ function reindex(json) {
 		QUOTEDB_DOCUMENTS.forEach(function (doc) {
 			this.add({
 				'id': doc['id'],
-				'lines': doc['lines'].map(function (line) { return line['content'] }),
+				'lines': doc['lines'].map(function (line) { return line['content'] }).join(' '),
 				'authors': doc['lines'].map(function (line) { return line['author'] }),
 			});
 		}, this);
