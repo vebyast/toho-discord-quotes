@@ -249,7 +249,7 @@
         "timestamp": "2017-06-21T00:51:12.323000+00:00",
         "edited": null,
         "content": "^^\u30b4 \n^^^^\u30b4\n^^^^\u30b4\n^^^\u30b4\n^\u30b4\n^^\u30b4\n^\u30b4\n^\u30b4\n\u30b4",
-        "color": "0x9B59B6"
+        "authorcolor": "0x9B59B6"
       },
       {
         "author": "veByast",
@@ -257,7 +257,7 @@
         "timestamp": "2017-06-21T00:51:15.923000+00:00",
         "edited": null,
         "content": "awww, no superscript.",
-        "color": "0x9B59B6"
+        "authorcolor": "0x9B59B6"
       }
     ],
     "quoted": "2017-06-21T01:47:39.472755",
