@@ -4345,5 +4345,69 @@
     "quoted": "2017-06-22T03:24:30.011304",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "327289459869483014",
+    "lines": [
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-05-23T02:24:03.968000+00:00",
+        "edited": null,
+        "content": "Just takes the closest relating quote drin a movie",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-05-23T02:24:25.748000+00:00",
+        "edited": null,
+        "content": "And if it doesn't natch, you just hear Ni",
+        "authorcolor": null
+      },
+      {
+        "author": "pantherasapiens",
+        "author_id": "266869055464407061",
+        "timestamp": "2017-05-23T02:24:41.246000+00:00",
+        "edited": null,
+        "content": "Sabrina speaks entirely in movie quotes",
+        "authorcolor": "#E91E63"
+      },
+      {
+        "author": "Tayta Malikai",
+        "author_id": "229596970161930240",
+        "timestamp": "2017-05-23T02:24:44.061000+00:00",
+        "edited": null,
+        "content": "Autocorrect BestBuddy is Best BestBuddy",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-05-23T02:25:26.046000+00:00",
+        "edited": null,
+        "content": "Best best buddy is normal best body, best gray best buddy is tied buddy, toed buddy doesn't censor self",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-05-23T02:25:47.275000+00:00",
+        "edited": null,
+        "content": "I could shoot that, but I'm tired",
+        "authorcolor": null
+      },
+      {
+        "author": "BestBuddy",
+        "author_id": "266498871977443328",
+        "timestamp": "2017-05-23T02:26:08.058000+00:00",
+        "edited": null,
+        "content": "My god phone, I swiped \"Edit\" not shoot",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-22T03:31:28.452522",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
