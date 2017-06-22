@@ -4153,5 +4153,21 @@
     "quoted": "2017-06-22T01:27:25.876634",
     "server": "Sabrina's Head",
     "channel": "pmmm"
+  },
+  {
+    "id": "327285088683294720",
+    "lines": [
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-22T01:25:01.635000+00:00",
+        "edited": null,
+        "content": "<:mumi:298218291652984833> \u2764 <:happybrina:298612974875049985>",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-22T03:14:06.262142",
+    "server": "Sabrina's Head",
+    "channel": "pmmm"
   }
 ]
