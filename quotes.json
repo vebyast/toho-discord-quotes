@@ -5273,5 +5273,53 @@
     "quoted": "2017-06-22T17:50:58.763788",
     "server": "Sabrina's Head",
     "channel": "pmas"
+  },
+  {
+    "id": "327510414092926976",
+    "lines": [
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-06-22T18:05:19.569000+00:00",
+        "edited": null,
+        "content": "Just...wow.",
+        "authorcolor": "#E67E22"
+      },
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-06-22T18:05:24.021000+00:00",
+        "edited": null,
+        "content": "I scrolled up and read all of that.",
+        "authorcolor": "#E67E22"
+      },
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-06-22T18:05:43.807000+00:00",
+        "edited": null,
+        "content": "I like how Ugo always complained about Gilgameshing and is like, clearly the source of it.",
+        "authorcolor": "#E67E22"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-22T18:06:00.310000+00:00",
+        "edited": null,
+        "content": "idk how to use quote bot",
+        "authorcolor": null
+      },
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-06-22T18:06:02.533000+00:00",
+        "edited": null,
+        "content": "\"what about the Yumas in the world that need contracts to not be abused to death?\" \"Fuck em.\"",
+        "authorcolor": "#E67E22"
+      }
+    ],
+    "quoted": "2017-06-22T18:09:28.431571",
+    "server": "Sabrina's Head",
+    "channel": "pmas"
   }
 ]
