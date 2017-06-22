@@ -4225,5 +4225,21 @@
     "quoted": "2017-06-22T03:17:39.683142",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "327287489746173953",
+    "lines": [
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-06-17T01:27:25.829000+00:00",
+        "edited": null,
+        "content": "we're in the AU where Kirika is sane but her family's fucking bonkers",
+        "authorcolor": "#E67E22"
+      }
+    ],
+    "quoted": "2017-06-22T03:23:38.776844",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
