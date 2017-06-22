@@ -5233,5 +5233,29 @@
     "quoted": "2017-06-22T04:13:32.180631",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "327445475454353409",
+    "lines": [
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-22T13:50:32.809000+00:00",
+        "edited": null,
+        "content": "keep your lewd out of the family tayta",
+        "authorcolor": null
+      },
+      {
+        "author": "Tayta Malikai",
+        "author_id": "229596970161930240",
+        "timestamp": "2017-06-22T13:50:40.294000+00:00",
+        "edited": null,
+        "content": ":<",
+        "authorcolor": null
+      }
+    ],
+    "quoted": "2017-06-22T13:51:25.467505",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
