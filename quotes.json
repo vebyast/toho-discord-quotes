@@ -4169,5 +4169,61 @@
     "quoted": "2017-06-22T03:14:06.262142",
     "server": "Sabrina's Head",
     "channel": "pmmm"
+  },
+  {
+    "id": "327285982477025285",
+    "lines": [
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T06:33:01.875000+00:00",
+        "edited": null,
+        "content": "So, does that mean QuoteBot is Combat Ready? <:pacman:290632177727700993>",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-21T06:43:22.547000+00:00",
+        "edited": null,
+        "content": "but can we ship firnbot and quotebot",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T06:49:19.610000+00:00",
+        "edited": null,
+        "content": "Can we?",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T06:49:24.203000+00:00",
+        "edited": null,
+        "content": "*can we?*",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T06:49:41.260000+00:00",
+        "edited": null,
+        "content": "Why ask such a useless question FIRN, the answer is obvious!!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Gangsta McBrinaizzle",
+        "author_id": "280102990461927425",
+        "timestamp": "2017-06-21T06:49:49.420000+00:00",
+        "edited": null,
+        "content": "SHIP SHIP SHIP SHIP SHIP",
+        "authorcolor": "#206694"
+      }
+    ],
+    "quoted": "2017-06-22T03:17:39.683142",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
