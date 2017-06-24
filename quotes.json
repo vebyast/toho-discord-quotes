@@ -6441,5 +6441,805 @@
     "quoted": "2017-06-23T02:58:32.024994",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "328016521068544020",
+    "lines": [
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:29:50.114000+00:00",
+        "edited": null,
+        "content": "@Mami is good with pastries.",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:29:54.070000+00:00",
+        "edited": null,
+        "content": "_nods sagely._",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:30:06.152000+00:00",
+        "edited": null,
+        "content": "/lewd",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": ".",
+        "author_id": "189628169299427328",
+        "timestamp": "2017-06-24T00:30:06.532000+00:00",
+        "edited": null,
+        "content": "",
+        "authorcolor": "#06393E"
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:30:06.658000+00:00",
+        "edited": null,
+        "content": "Oriko: *holds Mami's hands* Please teach me the ways of baking Sempai",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:30:11.383000+00:00",
+        "edited": null,
+        "content": "...what?",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:30:14.068000+00:00",
+        "edited": null,
+        "content": "How is that?",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:30:28.817000+00:00",
+        "edited": null,
+        "content": "I don't even *want* to know what went through your filthy, filthy mind.",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:30:32.447000+00:00",
+        "edited": null,
+        "content": "Oriko's bets strategy would be to tell Kirika she needs to win the competition fair and square",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:30:36.572000+00:00",
+        "edited": null,
+        "content": "and rely on Kirika",
+        "authorcolor": null
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:30:52.566000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add -s pastries -e sagely",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "vebyast-quote-bot",
+        "author_id": "325510944992133120",
+        "timestamp": "2017-06-24T00:30:52.756000+00:00",
+        "edited": "2017-06-24T00:30:53.297000+00:00",
+        "content": "Could not find message: No posts matching query.",
+        "authorcolor": null
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:30:58.143000+00:00",
+        "edited": null,
+        "content": "Darn",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:31:03.446000+00:00",
+        "edited": null,
+        "content": "Well I'll add that later",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:31:24.066000+00:00",
+        "edited": null,
+        "content": "Also, @Sabrina pastries are for eating :V",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:31:44.739000+00:00",
+        "edited": null,
+        "content": "...",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:31:45.494000+00:00",
+        "edited": null,
+        "content": "Hm.",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:31:49.546000+00:00",
+        "edited": null,
+        "content": "@Mami",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:31:56.981000+00:00",
+        "edited": null,
+        "content": "_grabs a towel_",
+        "authorcolor": null
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:32:06.713000+00:00",
+        "edited": null,
+        "content": "I now have soda all over my laptop",
+        "authorcolor": null
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:32:17.739000+00:00",
+        "edited": null,
+        "content": "*glares at a QQ quest*",
+        "authorcolor": null
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:32:28.293000+00:00",
+        "edited": null,
+        "content": "*pats mami*",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:32:35.685000+00:00",
+        "edited": null,
+        "content": "yes?",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:32:41.591000+00:00",
+        "edited": null,
+        "content": "Look up, brina thinks you're for eating, @Mami",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:32:47.124000+00:00",
+        "edited": null,
+        "content": "_blinks_",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:32:48.951000+00:00",
+        "edited": null,
+        "content": "What?!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:32:54.195000+00:00",
+        "edited": null,
+        "content": "Sabrina has good pastries 83",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:32:59.007000+00:00",
+        "edited": null,
+        "content": "I did no--",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:33:16.815000+00:00",
+        "edited": null,
+        "content": "*laughs forever*",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:33:28.668000+00:00",
+        "edited": null,
+        "content": "I have no words for how *what the hell you guys?!*",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:33:37.897000+00:00",
+        "edited": null,
+        "content": "^_^",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:33:55.342000+00:00",
+        "edited": "2017-06-24T00:33:58.019000+00:00",
+        "content": "How did any of that turn lewd?!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:34:02.874000+00:00",
+        "edited": null,
+        "content": "I was involved",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:34:06.753000+00:00",
+        "edited": null,
+        "content": "it's always lewd",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:34:12.424000+00:00",
+        "edited": null,
+        "content": "And because I find it funny",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:34:14.374000+00:00",
+        "edited": null,
+        "content": ":D",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:34:40.112000+00:00",
+        "edited": null,
+        "content": "```[5:29 PM] Sabrina: @Mami is good with pastries.\n[5:29 PM] Sabrina: nods sagely.```\nHow is any of that at all lewd?!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:34:44.185000+00:00",
+        "edited": null,
+        "content": "pie is a pastry",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:34:50.386000+00:00",
+        "edited": null,
+        "content": "Sabrina likes my pie",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:35:00.317000+00:00",
+        "edited": null,
+        "content": "...",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:07.737000+00:00",
+        "edited": null,
+        "content": "really",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:35:09.466000+00:00",
+        "edited": null,
+        "content": "I can see how that turned lewd xD",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:15.112000+00:00",
+        "edited": null,
+        "content": "You want to eat Mami with pastries",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:21.067000+00:00",
+        "edited": null,
+        "content": "'Mami is good with pastries'",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:35:25.617000+00:00",
+        "edited": null,
+        "content": "......................................",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:34.892000+00:00",
+        "edited": null,
+        "content": "You don't have to deny it, you know",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:35:35.253000+00:00",
+        "edited": null,
+        "content": "I hate you all",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:35:35.758000+00:00",
+        "edited": null,
+        "content": "lol",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:37.940000+00:00",
+        "edited": null,
+        "content": "we support you",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:40.819000+00:00",
+        "edited": null,
+        "content": "just like we support",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:35:41.916000+00:00",
+        "edited": null,
+        "content": "xDDD",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:35:42.829000+00:00",
+        "edited": null,
+        "content": "/ugomura",
+        "authorcolor": null
+      },
+      {
+        "author": ".",
+        "author_id": "189628169299427328",
+        "timestamp": "2017-06-24T00:35:42.907000+00:00",
+        "edited": null,
+        "content": "",
+        "authorcolor": "#06393E"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:35:53.503000+00:00",
+        "edited": null,
+        "content": "<:mumi:298218291652984833> \u2764 <:happybrina:298612974875049985>",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:35:55.984000+00:00",
+        "edited": null,
+        "content": "_facepalms so hard_",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:36:01.189000+00:00",
+        "edited": null,
+        "content": ":D",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:36:04.618000+00:00",
+        "edited": null,
+        "content": "think of it as karma",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:36:15.249000+00:00",
+        "edited": null,
+        "content": "",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:37:04.790000+00:00",
+        "edited": null,
+        "content": "Right, so, I've learned that all of you have filthy minds",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:37:15.015000+00:00",
+        "edited": null,
+        "content": "I blame you for my filthy mind",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:37:19.635000+00:00",
+        "edited": null,
+        "content": "It took me a while to undertand, but",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:37:20.239000+00:00",
+        "edited": null,
+        "content": "years and years of corruption",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:37:21.655000+00:00",
+        "edited": null,
+        "content": "your fault",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:37:32.105000+00:00",
+        "edited": null,
+        "content": "and I like me better this way 83",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:37:33.609000+00:00",
+        "edited": null,
+        "content": "Hey, that's not *my* fault!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:37:35.255000+00:00",
+        "edited": null,
+        "content": "Firn explained it",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:37:44.541000+00:00",
+        "edited": null,
+        "content": "your denial is obviously fake",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:37:49.146000+00:00",
+        "edited": null,
+        "content": "OBVIOUSLY",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:37:55.719000+00:00",
+        "edited": null,
+        "content": "Both of you made each other lewd together",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:37:56.164000+00:00",
+        "edited": null,
+        "content": "What?",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:38:14.025000+00:00",
+        "edited": null,
+        "content": "Okay, that sounds wildly inappropriate.",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Thagguy",
+        "author_id": "186925424272474112",
+        "timestamp": "2017-06-24T00:38:59.016000+00:00",
+        "edited": null,
+        "content": "thats sort of intentional tbf",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:39:04.427000+00:00",
+        "edited": null,
+        "content": "yeah, your first date is coming up tonight! You're going way to fast!",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:39:31.664000+00:00",
+        "edited": null,
+        "content": "You shuld both go to a restaurant to commemorate",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:44:01.302000+00:00",
+        "edited": null,
+        "content": "why would we do that?",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:44:05.305000+00:00",
+        "edited": null,
+        "content": "Sabrina would rather I cook 83",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:44:16.600000+00:00",
+        "edited": null,
+        "content": "Make sure Sabrina has no pants",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:44:21.181000+00:00",
+        "edited": null,
+        "content": "Gah!",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:44:31.650000+00:00",
+        "edited": null,
+        "content": "Short skirts!",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:44:37.223000+00:00",
+        "edited": null,
+        "content": "i will steal Sabrina's pants",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:44:37.895000+00:00",
+        "edited": null,
+        "content": "and thigh highs!",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:44:45.031000+00:00",
+        "edited": null,
+        "content": "as prep for the quest date coming up!",
+        "authorcolor": null
+      },
+      {
+        "author": "mistfist",
+        "author_id": "201067426954215426",
+        "timestamp": "2017-06-24T00:45:03.793000+00:00",
+        "edited": null,
+        "content": "the dinner, not the pants stealing :V",
+        "authorcolor": null
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:45:23.100000+00:00",
+        "edited": "2017-06-24T00:45:34.910000+00:00",
+        "content": "hummm Mami in a short skirt and thigh highs",
+        "authorcolor": null
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:45:44.710000+00:00",
+        "edited": null,
+        "content": "http://i.imgur.com/bgVPH.jpg",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:45:48.894000+00:00",
+        "edited": null,
+        "content": "_tilts head_",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:46:56.148000+00:00",
+        "edited": null,
+        "content": ">hummm Mami in a short skirt and thigh highs",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-06-24T00:47:06.310000+00:00",
+        "edited": null,
+        "content": "Isn't that just mami in her costume",
+        "authorcolor": "#992D22"
+      },
+      {
+        "author": "DB_Explorer",
+        "author_id": "165621305226428416",
+        "timestamp": "2017-06-24T00:47:25.060000+00:00",
+        "edited": null,
+        "content": "right",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:48:05.143000+00:00",
+        "edited": null,
+        "content": "@Mami would look good in @Mami's costume. \ud83d\ude1b",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:48:19.475000+00:00",
+        "edited": null,
+        "content": "Sabrina would look good in an altered Mami costume",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:48:29.492000+00:00",
+        "edited": null,
+        "content": "*Gah!*",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:48:32.532000+00:00",
+        "edited": null,
+        "content": ">83",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:48:40.833000+00:00",
+        "edited": null,
+        "content": "Now that just ain't right.",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:49:00.731000+00:00",
+        "edited": null,
+        "content": "shut up and listen to the girl",
+        "authorcolor": null
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-24T00:49:03.673000+00:00",
+        "edited": null,
+        "content": "xD",
+        "authorcolor": "#F1C40F"
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-24T00:49:04.694000+00:00",
+        "edited": null,
+        "content": "\ud83d\ude1b",
+        "authorcolor": null
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:49:10.044000+00:00",
+        "edited": null,
+        "content": "pfft",
+        "authorcolor": "#206694"
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-06-24T00:49:13.155000+00:00",
+        "edited": null,
+        "content": "xD",
+        "authorcolor": "#206694"
+      }
+    ],
+    "quoted": "2017-06-24T03:40:33.281827",
+    "server": "Sabrina's Head",
+    "channel": "pmas"
   }
 ]
