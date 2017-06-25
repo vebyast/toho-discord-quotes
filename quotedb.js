@@ -103,7 +103,7 @@ function display_all() {
 	var result_documents = QUOTEDB_DOCUMENTS;
 	result_documents.sort(function(a, b) {
 		// put largest (most recent) timestamps first
-		return a['quoted'] < b['quoted'];
+		return (new Date(b['quoted'])) - (new Date(a['quoted']));
 	});
 	result_documents = result_documents.slice(0, 10);
 	update_search_results_vue({result_documents, truncate: true});
@@ -121,7 +121,7 @@ function search_quote_db(query) {
 	var results = idx.search(query);
 	// sort from largest score to smallest score to sort relevant results first
 	results.sort(function(a, b) {
-		return a['score'] < b['score'];
+		return b['score'] - a['score'];
 	});
 	var result_documents = results.map(function(sr) {
 		return QUOTEDB_MAP[sr.ref];
