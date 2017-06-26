@@ -20,8 +20,9 @@ $(document).ready(function() {
 	});
 	// grab the quotes json, set up lunr, and finally start start working
 	$.getJSON('quotes.json', function(json) {
-		reindex(json);
 		Path.listen();
+		load_db(json);
+		reindex();
 	});
 });
 
@@ -77,6 +78,22 @@ function reindex(json) {
 	});
 };
 
+function load_db(json) {
+	QUOTEDB_DOCUMENTS = json;
+
+	QUOTEDB_MAP = {};
+	QUOTEDB_DOCUMENTS.forEach(function (doc) {
+		QUOTEDB_MAP[doc['id']] = doc;
+		doc['quoted'] = new Date(doc['quoted']);
+		doc['lines'].forEach(function (line) {
+			line['timestamp'] = new Date(line['timestamp']);
+		});
+	});
+	QUOTEDB_DOCUMENTS.sort(function(a, b) {
+		// put largest (most recent) timestamps first
+		return b['quoted'] - a['quoted'];
+	});
+}
 // if we have a query in the box, go to do a query. if the box is empty, go to
 // show all results.
 function search_button_onclick() {
@@ -148,7 +165,7 @@ function update_search_results_vue({result_documents, truncate=false}) {
 		return {
 			id: sr['id'],
 			href: '#/quote_id/' + sr['id'],
-			quoted: (new Date(sr['quoted'])).toLocaleString(),
+			quoted: sr['quoted'].toLocaleString(),
 			server: sr['server'],
 			channel: sr['channel'],
 			truncated: truncated,
@@ -156,7 +173,7 @@ function update_search_results_vue({result_documents, truncate=false}) {
 				return {
 					content: line['content'],
 					author: line['author'],
-					timestamp: transformTimestamp(line['timestamp']),
+					timestamp: line['timestamp'].toLocaleString(),
 					edited: line['edited'],
 					style: {
 						color: line['authorcolor'],
@@ -173,8 +190,4 @@ function fixedEncodeURIComponent(str) {
   return encodeURIComponent(str).replace(/[!'()*]/g, function(c) {
     return '%' + c.charCodeAt(0).toString(16);
   });
-};
-
-function transformTimestamp(ts) {
-	return (new Date(ts)).toLocaleString();
 };
