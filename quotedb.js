@@ -4,11 +4,26 @@ var idx = null;
 var search_results_vue = null;
 
 const TRUNCATE_LENGTH = 25;
+const RESULTS_PER_PAGE = 10;
 
-// set up pathjs
-$(document).ready(function() {
-	Path.root('#/default');
-});
+// set up routing
+var router = new Navigo(null, true);
+router
+	.on('/search/:query', function(params, get) {
+		var search_query = decodeURIComponent(params.query);
+		display_from_query(search_query);
+	})
+	.on('/quote_id/:quote_id', function(params) {
+		var id = params.quote_id;
+		display_from_id(id);
+	})
+	.on('/starting_at/:start', function(params) {
+		var time = new Date(params.start);
+		display_from_time({time});
+	})
+	.on(function(params) {
+		display_all();
+	});
 
 // set up vue and then 'refresh'
 $(document).ready(function() {
@@ -16,13 +31,14 @@ $(document).ready(function() {
 		el: '#search_results',
 		data: {
 			search_results: [],
+			timeinterval_start: null,
 		}
 	});
 	// grab the quotes json, set up lunr, and finally start start working
 	$.getJSON('quotes.json', function(json) {
-		Path.listen();
 		load_db(json);
 		reindex();
+		router.resolve();
 	});
 });
 
@@ -36,33 +52,9 @@ $(document).ready(function() {
 	});
 });
 
-// does searches.
-Path.map('#/search/:query').to(function() {
-	var query = decodeURIComponent(this.params['query']);
-	display_from_query(query);
-});
-
-// directly link to a quote
-Path.map('#/quote_id/:quote_id').to(function() {
-	var id = this.params['query'];
-	display_from_id(id);
-});
-
-// landing page is thing, show all quote
-Path.map('#/default').to(function() {
-	display_all();
-});
-
 // create the quotes database and lunr index from the given object, which should
 // be an array of quote objects
-function reindex(json) {
-	QUOTEDB_DOCUMENTS = json;
-
-	QUOTEDB_MAP = {};
-	QUOTEDB_DOCUMENTS.forEach(function (doc) {
-		QUOTEDB_MAP[doc['id']] = doc;
-	});
-
+function reindex() {
 	idx = lunr(function () {
 		this.ref('id');
 		this.field('lines');
@@ -94,15 +86,36 @@ function load_db(json) {
 		return b['quoted'] - a['quoted'];
 	});
 }
+
+// pagination - move to newer quotes
+function newer_page_button_onclick() {
+	var current_end = search_results_vue.timeinterval_end;
+	var before = QUOTEDB_DOCUMENTS.filter(function (quote) {
+		return quote['quoted'] > current_end;
+	});
+	if (before.length == 0) {
+		return;
+	};
+	var end_idx = Math.max(0, before.length - RESULTS_PER_PAGE);
+	var new_end = before[end_idx]['quoted'];
+	router.navigate('/starting_at/' + fixedEncodeURIComponent(new_end.toISOString()));
+};
+
+// pagination - move to older quotes
+function older_page_button_onclick() {
+	var new_end = search_results_vue.timeinterval_start;
+	router.navigate('/starting_at/' + fixedEncodeURIComponent(new_end.toISOString()));
+};
+
 // if we have a query in the box, go to do a query. if the box is empty, go to
 // show all results.
 function search_button_onclick() {
 	var query = $('#search_query_box').val();
 	if (query) {
-		window.location.hash = '#/search/' + fixedEncodeURIComponent(query);
+		router.navigate('/search/' + fixedEncodeURIComponent(query));
 	}
 	else {
-		window.location.hash = '#/default';
+		router.navigate('');
 	};
 };
 
@@ -118,13 +131,19 @@ function display_from_id(id) {
 // uploaded
 function display_all() {
 	var result_documents = QUOTEDB_DOCUMENTS;
-	result_documents.sort(function(a, b) {
-		// put largest (most recent) timestamps first
-		return (new Date(b['quoted'])) - (new Date(a['quoted']));
-	});
-	result_documents = result_documents.slice(0, 10);
+	result_documents = result_documents.slice(0, RESULTS_PER_PAGE);
 	update_search_results_vue({result_documents, truncate: true});
 };
+
+// update vue to display quotes in a date range
+function display_from_time({time}) {
+	var result_documents = QUOTEDB_DOCUMENTS;
+	result_documents = result_documents.filter(function(quote) {
+		return (time >= quote['quoted']);
+	});
+	result_documents = result_documents.slice(0, RESULTS_PER_PAGE);
+	update_search_results_vue({result_documents, truncate: true});
+}
 
 // update vue to display results that match the given lunr query
 function display_from_query(query) {
@@ -184,6 +203,11 @@ function update_search_results_vue({result_documents, truncate=false}) {
 	});
 
 	search_results_vue.search_results = result_output;
+	var dates = result_documents.map(function(sr) {
+		return sr['quoted'];
+	});
+	search_results_vue.timeinterval_end = new Date(Math.max.apply(null,dates));
+	search_results_vue.timeinterval_start = new Date(Math.min.apply(null,dates));
 };
 
 function fixedEncodeURIComponent(str) {

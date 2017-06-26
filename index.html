@@ -5,18 +5,25 @@
   <script src="https://unpkg.com/lunr/lunr.js"></script>
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.min.js" integrity="sha256-+J5cSgDOPu6OT8mt+r5f7/cmvICoEmNdK2ZGz8ql8wc=" crossorigin="anonymous"></script> -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.3.4/vue.js" integrity="sha256-sawP1sLkcaA4YQJQWAtjahamgG6brGmaIJWRhYwDfno=" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/path.js/0.8.4/path.min.js" integrity="sha256-7Nm5pPipMrlpGKMkoaMrPsuGnoJnMUSBYEvCr9LSs/k=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
 
+  <script src="navigo.min.js"></script>
   <script type="text/babel" data-presets="es2015" src="quotedb.js"></script>
 
   <link rel="stylesheet" href="style.css"></link>
 </head>
 <body>
 
-  <div class="search-form-div">
-	<input type="text" id="search_query_box" />
-	<input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
+  <div class="header">
+	<div class="search-form-div">
+	  <input type="text" id="search_query_box" />
+	  <input type="button" id="search_query_submit_button" onclick="search_button_onclick();" value="Search" />
+	</div>
+
+	<div class="pagination-div">
+	  <input type="button" id="newer_page_button" onclick="newer_page_button_onclick();" value="<- Newer Quotes" />
+	  <input type="button" id="older_page_button" onclick="older_page_button_onclick();" value="Older Quotes ->" />
+	</div>
   </div>
 
   <div id="search_results" class="search-results" v-cloak>

@@ -60,7 +60,7 @@ body {
 	font-size: 15px;
 }
 
-.search-form-div {
+.header {
 	padding-top: 20px;
 	padding-left: 20px;
 	padding-bottom: 15px;
@@ -69,6 +69,10 @@ body {
 	border-bottom-color: rgba(255, 255, 255, 0.04);
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
+}
+
+.search-form-div {
+	margin-bottom: 5px;
 }
 
 .search-results {
