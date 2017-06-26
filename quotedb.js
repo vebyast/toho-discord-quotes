@@ -197,6 +197,7 @@ function update_search_results_vue({result_documents, truncate=false}) {
 					style: {
 						color: line['authorcolor'],
 					},
+					attachments: line['attachments'] || [],
 				};
 			}),
 		};

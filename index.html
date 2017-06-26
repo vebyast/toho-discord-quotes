@@ -37,6 +37,9 @@
 		<span class="message-timestamp">[{{line.timestamp}}]</span>
 		<span class="message-author" v-bind:style="line.style"><strong>{{line.author}}</strong></span>
 		<span class="message-content">{{line.content}}</span>
+		<div v-if="line.attachments.length > 0" v-for="attachment in line.attachments" class="message-attachments-div">
+		  <span class="message-attachment">(attachment: <a v-bind:href="attachment.url">{{attachment.filename}}</a>)</span>
+		</div>
 	  </div>
 	  <div v-if="search_result.truncated" class="quote-truncated-message">
 		<span class="quote-truncated-text">Long quote, {{search_result.truncated}} lines truncated.</span>
