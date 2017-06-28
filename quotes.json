@@ -9417,5 +9417,22 @@
     "quoted": "2017-06-25T07:51:14.762379",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "329442575146680322",
+    "lines": [
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-06-28T02:06:48.641000+00:00",
+        "edited": null,
+        "content": "Quotebot should finally be back up.",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-06-28T02:07:11.356540",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
