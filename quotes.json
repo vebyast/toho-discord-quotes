@@ -9434,5 +9434,58 @@
     "quoted": "2017-06-28T02:07:11.356540",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "329442794030628864",
+    "lines": [
+      {
+        "author": "RagnorakTres",
+        "author_id": "178996040622538752",
+        "timestamp": "2017-06-27T22:45:17.920000+00:00",
+        "edited": null,
+        "content": "I do like spiderbutts...",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "onmarble",
+        "author_id": "265872080770301953",
+        "timestamp": "2017-06-27T22:46:22.966000+00:00",
+        "edited": null,
+        "content": "spoderbutt spoderbutt\ndoes whatever a spoder butts",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "RagnorakTres",
+        "author_id": "178996040622538752",
+        "timestamp": "2017-06-27T22:47:46.314000+00:00",
+        "edited": null,
+        "content": "/choose spiderbutt, snekbutt",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": ".",
+        "author_id": "189628169299427328",
+        "timestamp": "2017-06-27T22:47:46.346000+00:00",
+        "edited": null,
+        "content": "spiderbutt",
+        "authorcolor": "#06393E",
+        "attachments": []
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-06-27T23:24:55.041000+00:00",
+        "edited": null,
+        "content": "_chooses Sabrinabutt_",
+        "authorcolor": "#F1C40F",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-06-28T02:08:03.294532",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
