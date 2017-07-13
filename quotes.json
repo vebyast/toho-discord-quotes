@@ -14998,5 +14998,40 @@
     "quoted": "2017-07-12T23:28:08.513480",
     "server": "Sabrina's Head",
     "channel": "pmas"
+  },
+  {
+    "id": "335075137265074186",
+    "lines": [
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-07-13T15:00:49.983000+00:00",
+        "edited": null,
+        "content": ">It says something about us as a community that the single largest, most elaborate class of image in the bot is the one for telling people that they need to go to sleep at a reasonable hour.",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-07-13T15:00:51.778000+00:00",
+        "edited": null,
+        "content": "Untrue",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-07-13T15:01:01.413000+00:00",
+        "edited": null,
+        "content": "/lewd is the largest, most elaborate class",
+        "authorcolor": "#992D22",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-07-13T15:08:58.539617",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
