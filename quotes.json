@@ -15050,5 +15050,58 @@
     "quoted": "2017-07-14T02:28:29.186431",
     "server": "Sabrina's Head",
     "channel": "general"
+  },
+  {
+    "id": "335246286955610114",
+    "lines": [
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-14T02:26:58.990000+00:00",
+        "edited": null,
+        "content": "Dark Souls gets almost all its variationin difficulty by good level design and enemy placement",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Ugolino",
+        "author_id": "178254095973351424",
+        "timestamp": "2017-07-14T02:27:10.708000+00:00",
+        "edited": null,
+        "content": "Well, less the philosophy and more the basic combat was what I was thinking?",
+        "authorcolor": "#3498DB",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-14T02:27:16.043000+00:00",
+        "edited": null,
+        "content": "It's not something most people *notice*, because they do such a good fucking job at it",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-14T02:27:37.942000+00:00",
+        "edited": null,
+        "content": "The problem is that without the varying difficulty curves, the puzzle-solving of each combat encounter",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-14T02:27:43.813000+00:00",
+        "edited": null,
+        "content": "The Dark Souls combat system is *shit*",
+        "authorcolor": "#206694",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-07-14T02:29:03.942706",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
