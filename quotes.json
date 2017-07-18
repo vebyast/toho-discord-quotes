@@ -15631,5 +15631,139 @@
     "quoted": "2017-07-18T01:26:51.169824",
     "server": "Sabrina's Head",
     "channel": "toboldlygo"
+  },
+  {
+    "id": "336681208459165696",
+    "lines": [
+      {
+        "author": "AlphaDelta",
+        "author_id": "113104128783159296",
+        "timestamp": "2017-07-18T01:25:45.615000+00:00",
+        "edited": null,
+        "content": "BTW, what's the ISC naming convention?",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "AlphaDelta",
+        "author_id": "113104128783159296",
+        "timestamp": "2017-07-18T01:25:48.497000+00:00",
+        "edited": null,
+        "content": "for people",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-18T01:26:20.883000+00:00",
+        "edited": null,
+        "content": "We have no idea.",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-18T01:26:22.209000+00:00",
+        "edited": null,
+        "content": "xD",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-07-18T01:26:39.633000+00:00",
+        "edited": null,
+        "content": "Short consonant vowel pairs, like say, Kepalo or Fajuke",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-18T01:26:47.864000+00:00",
+        "edited": null,
+        "content": "that!",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "aeqnai",
+        "author_id": "165084630054207488",
+        "timestamp": "2017-07-18T01:27:04.163000+00:00",
+        "edited": null,
+        "content": "I did the naming stuff for their planets a while back",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-18T01:27:18.022000+00:00",
+        "edited": null,
+        "content": "\ud83e\udd17",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-07-18T01:27:25.685000+00:00",
+        "edited": null,
+        "content": "We did write this in the proposal, but we have no idea if Oneiros took this bit yet.",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-07-18T01:27:40.964000+00:00",
+        "edited": null,
+        "content": "```Stylistically draw from Colonial/Revolutionary America and the Roman Republic. Names should be short, syllabic and easy to pronounce.```",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "AlphaDelta",
+        "author_id": "113104128783159296",
+        "timestamp": "2017-07-18T01:27:44.626000+00:00",
+        "edited": null,
+        "content": "ah",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-07-18T01:27:57.671000+00:00",
+        "edited": null,
+        "content": "```Primary language is an artificial construction based on the predominant languages at the time of global unification, with strong consonant-vowel pairings for clarity. Nearly all individuals still speak pre-unification languages as their first language, though.```",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "AlphaDelta",
+        "author_id": "113104128783159296",
+        "timestamp": "2017-07-18T01:28:00.851000+00:00",
+        "edited": null,
+        "content": "I'm doing the groundwork for my mafia game",
+        "authorcolor": null,
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-07-18T01:28:02.077000+00:00",
+        "edited": null,
+        "content": "Thus the ship being the Ironsides, savvy?",
+        "authorcolor": "#206694",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-07-18T01:30:55.814378",
+    "server": "Sabrina's Head",
+    "channel": "toboldlygo"
   }
 ]
