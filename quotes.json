@@ -15765,5 +15765,40 @@
     "quoted": "2017-07-18T01:30:55.814378",
     "server": "Sabrina's Head",
     "channel": "toboldlygo"
+  },
+  {
+    "id": "340685600850182146",
+    "lines": [
+      {
+        "author": "Tyrant Hitomi",
+        "author_id": "172878591456051200",
+        "timestamp": "2017-07-29T02:41:20.851000+00:00",
+        "edited": null,
+        "content": "After so many bad individual experiences with League",
+        "authorcolor": "#2ECC71",
+        "attachments": []
+      },
+      {
+        "author": "Tyrant Hitomi",
+        "author_id": "172878591456051200",
+        "timestamp": "2017-07-29T02:41:24.024000+00:00",
+        "edited": null,
+        "content": "I just stay away from MOBAs",
+        "authorcolor": "#2ECC71",
+        "attachments": []
+      },
+      {
+        "author": "Tyrant Hitomi",
+        "author_id": "172878591456051200",
+        "timestamp": "2017-07-29T02:41:29.964000+00:00",
+        "edited": null,
+        "content": "They're a more efficient salt mine than fighting games",
+        "authorcolor": "#2ECC71",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-07-29T02:42:57.263073",
+    "server": "Sabrina's Head",
+    "channel": "general"
   }
 ]
