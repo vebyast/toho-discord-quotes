@@ -18225,5 +18225,67 @@
     "quoted": "2017-08-09T20:47:18.188248",
     "server": "Sabrina's Head",
     "channel": "pmas"
+  },
+  {
+    "id": "349696442170081282",
+    "lines": [
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-08-22T23:26:51.542000+00:00",
+        "edited": null,
+        "content": "... Oooh, shiny",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-08-22T23:26:54.258000+00:00",
+        "edited": null,
+        "content": "Also",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-08-22T23:26:56.921000+00:00",
+        "edited": null,
+        "content": "Veb",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "veByast",
+        "author_id": "248980478416125952",
+        "timestamp": "2017-08-22T23:27:01.940000+00:00",
+        "edited": null,
+        "content": "Yus? \ud83d\ude04",
+        "authorcolor": "#9B59B6",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-08-22T23:27:07.751000+00:00",
+        "edited": null,
+        "content": "If you declare something off limits for a discussion",
+        "authorcolor": "#992D22",
+        "attachments": []
+      },
+      {
+        "author": "Firnagzen",
+        "author_id": "178020704774520833",
+        "timestamp": "2017-08-22T23:27:12.798000+00:00",
+        "edited": null,
+        "content": "Does that make it veboten",
+        "authorcolor": "#992D22",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-08-22T23:28:49.562290",
+    "server": "Sabrina's Head",
+    "channel": "pmas-fanworks"
   }
 ]
