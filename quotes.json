@@ -18287,5 +18287,113 @@
     "quoted": "2017-08-22T23:28:49.562290",
     "server": "Sabrina's Head",
     "channel": "pmas-fanworks"
+  },
+  {
+    "id": "352253553492099072",
+    "lines": [
+      {
+        "author": "All Witches' Night",
+        "author_id": "227240731515944960",
+        "timestamp": "2017-08-30T00:18:23.731000+00:00",
+        "edited": null,
+        "content": "",
+        "authorcolor": "#206694",
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266534980203577355/352245632989396993/63076806_p0.png",
+            "filename": "63076806_p0.png"
+          }
+        ]
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-08-30T00:39:19.019000+00:00",
+        "edited": null,
+        "content": "...what are you doing with that ribbon, Mami?",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-08-30T00:39:37.602000+00:00",
+        "edited": null,
+        "content": "Seriously, the look on her face is, uh...",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-08-30T00:39:39.345000+00:00",
+        "edited": null,
+        "content": "/concern",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": ".",
+        "author_id": "189628169299427328",
+        "timestamp": "2017-08-30T00:39:39.513000+00:00",
+        "edited": null,
+        "content": "",
+        "authorcolor": "#06393E",
+        "attachments": [
+          {
+            "url": "https://cdn.discordapp.com/attachments/266534980203577355/352250985764093952/concern.jpg",
+            "filename": "concern.jpg"
+          }
+        ]
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-08-30T00:40:04.216000+00:00",
+        "edited": null,
+        "content": "@Mami ?",
+        "authorcolor": "#206694",
+        "attachments": []
+      },
+      {
+        "author": "Stabby Sayaka",
+        "author_id": "258108998891339777",
+        "timestamp": "2017-08-30T00:40:48.303000+00:00",
+        "edited": null,
+        "content": "*eyebrow waggle*",
+        "authorcolor": "#195080",
+        "attachments": []
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-08-30T00:43:51.575000+00:00",
+        "edited": null,
+        "content": ">83",
+        "authorcolor": "#F1C40F",
+        "attachments": []
+      },
+      {
+        "author": "Mami",
+        "author_id": "222505900001198081",
+        "timestamp": "2017-08-30T00:44:02.529000+00:00",
+        "edited": null,
+        "content": "you know perfectly well what I'm doing with it",
+        "authorcolor": "#F1C40F",
+        "attachments": []
+      },
+      {
+        "author": "Sabrina",
+        "author_id": "252581296436412416",
+        "timestamp": "2017-08-30T00:44:32.846000+00:00",
+        "edited": null,
+        "content": "_slowly backs away, then flees._",
+        "authorcolor": "#206694",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-08-30T00:49:52.133312",
+    "server": "Sabrina's Head",
+    "channel": "pmmm"
   }
 ]
