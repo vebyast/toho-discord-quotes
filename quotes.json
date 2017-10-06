@@ -22224,5 +22224,31 @@
     "quoted": "2017-09-14T03:29:14.539919",
     "server": "Sabrina's Head",
     "channel": "pmas"
+  },
+  {
+    "id": "365961048731287552",
+    "lines": [
+      {
+        "author": "Redshirt Army",
+        "author_id": "206015016082735104",
+        "timestamp": "2017-10-06T20:27:57.066000+00:00",
+        "edited": null,
+        "content": "@vebyast-quote-bot /add -s \"probably don't have souls and they definitely\" -e \"but I mean no reason not to have her try\"",
+        "authorcolor": "#E91E63",
+        "attachments": []
+      },
+      {
+        "author": "AuraTwilight",
+        "author_id": "157027749314166784",
+        "timestamp": "2017-10-06T20:05:28.393000+00:00",
+        "edited": null,
+        "content": "but I mean no reason not to have her try.",
+        "authorcolor": "#E67E22",
+        "attachments": []
+      }
+    ],
+    "quoted": "2017-10-06T20:38:33.757120",
+    "server": "Sabrina's Head",
+    "channel": "pmas"
   }
 ]
