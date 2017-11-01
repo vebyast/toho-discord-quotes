@@ -1,19 +1,54 @@
 [
   {
-    "lines": [
-      {
-        "author_id": "248980478416125952",
-        "content": "Hm. yeah, maybe I need to add a target so they're triggered by machine startup.",
-        "author": "vebyast",
-        "edited": null,
-        "authorcolor": null,
-        "timestamp": "2017-10-25T04:24:01.407000+00:00",
-        "attachments": []
-      }
-    ],
+    "id": "375158738363088899",
     "quoted": "2017-11-01T05:46:53.821316",
     "channel": "bot-abuse",
-    "id": "375158738363088899",
-    "server": "vebyast-test-server"
+    "server": "vebyast-test-server",
+    "lines": [
+      {
+        "author": "vebyast",
+        "timestamp": "2017-10-25T04:24:01.407000+00:00",
+        "authorcolor": null,
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "content": "Hm. yeah, maybe I need to add a target so they're triggered by machine startup.",
+        "edited": null
+      }
+    ]
+  },
+  {
+    "quoted": "2017-11-01T06:55:35.233956",
+    "lines": [
+      {
+        "author": "vebyast",
+        "timestamp": "2017-11-01T05:49:12.969000+00:00",
+        "content": "@VebBot /add -S 375067317341782017 -E 375067317341782017",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "author": "vebyast",
+        "timestamp": "2017-11-01T05:49:28.818000+00:00",
+        "content": "@VebBot /help",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "authorcolor": null,
+        "edited": null
+      },
+      {
+        "author": "vebyast",
+        "timestamp": "2017-11-01T05:49:39.074000+00:00",
+        "content": "Right, it doesn't respond to nicknames. Off to fix that...",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "authorcolor": null,
+        "edited": null
+      }
+    ],
+    "channel": "thebotbox",
+    "server": "Throne of Heroes Online",
+    "id": "375176025018990592"
   }
 ]
