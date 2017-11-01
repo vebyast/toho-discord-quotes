@@ -6,12 +6,12 @@
     "id": "375158738363088899",
     "lines": [
       {
+        "content": "Hm. yeah, maybe I need to add a target so they're triggered by machine startup.",
         "author_id": "248980478416125952",
         "attachments": [],
-        "timestamp": "2017-10-25T04:24:01.407000+00:00",
         "author": "vebyast",
         "authorcolor": null,
-        "content": "Hm. yeah, maybe I need to add a target so they're triggered by machine startup.",
+        "timestamp": "2017-10-25T04:24:01.407000+00:00",
         "edited": null
       }
     ]
@@ -23,30 +23,30 @@
     "id": "375176025018990592",
     "lines": [
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:49:12.969000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "@VebBot /add -S 375067317341782017 -E 375067317341782017",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:49:12.969000+00:00",
         "edited": null
       },
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:49:28.818000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "@VebBot /help",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:49:28.818000+00:00",
         "edited": null
       },
       {
+        "content": "Right, it doesn't respond to nicknames. Off to fix that...",
         "author_id": "248980478416125952",
         "attachments": [],
-        "timestamp": "2017-11-01T05:49:39.074000+00:00",
         "author": "vebyast",
         "authorcolor": null,
-        "content": "Right, it doesn't respond to nicknames. Off to fix that...",
+        "timestamp": "2017-11-01T05:49:39.074000+00:00",
         "edited": null
       }
     ]
@@ -58,30 +58,30 @@
     "id": "375176124130525185",
     "lines": [
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:49:12.969000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "@VebBot /add -S 375067317341782017 -E 375067317341782017",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:49:12.969000+00:00",
         "edited": null
       },
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:49:28.818000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "@VebBot /help",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:49:28.818000+00:00",
         "edited": null
       },
       {
+        "content": "Right, it doesn't respond to nicknames. Off to fix that...",
         "author_id": "248980478416125952",
         "attachments": [],
-        "timestamp": "2017-11-01T05:49:39.074000+00:00",
         "author": "vebyast",
         "authorcolor": null,
-        "content": "Right, it doesn't respond to nicknames. Off to fix that...",
+        "timestamp": "2017-11-01T05:49:39.074000+00:00",
         "edited": null
       }
     ]
@@ -93,339 +93,340 @@
     "channel": "general",
     "lines": [
       {
+        "content": "heeeeey!",
         "author_id": "258108998891339777",
         "attachments": [],
-        "timestamp": "2017-04-17T18:18:27.118000+00:00",
         "author": "LostDeviljho",
         "authorcolor": "#B30059",
-        "content": "heeeeey!",
+        "timestamp": "2017-04-17T18:18:27.118000+00:00",
         "edited": null
       },
       {
+        "content": "[COSMOS] and [VOID] come to mind as particularly effective cheaters.",
         "author_id": "303605711915712512",
         "attachments": [],
-        "timestamp": "2017-11-01T04:42:16.542000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": "[COSMOS] and [VOID] come to mind as particularly effective cheaters.",
+        "timestamp": "2017-11-01T04:42:16.542000+00:00",
         "edited": null
       },
       {
+        "content": "No, but she'd be able to ressurrect.",
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T04:42:23.031000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "No, but she'd be able to ressurrect.",
+        "timestamp": "2017-11-01T04:42:23.031000+00:00",
         "edited": "2017-11-01T04:42:39.145000+00:00"
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:42:58.004000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "Which is almost as bad.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:42:58.004000+00:00",
         "edited": null
       },
       {
-        "author_id": "131939026897862656",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:09.596000+00:00",
-        "author": "Mellithae",
-        "authorcolor": null,
         "content": "TheBiggerFish. I'm entirely aware why it wouldn't work regarding physics. I just wasn't sure why it wouldn't work regarding quest mechanics.",
-        "edited": null
-      },
-      {
-        "author_id": "303605711915712512",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:17.835000+00:00",
-        "author": "kelllogo",
-        "authorcolor": "#71368A",
-        "content": "Is there a term for \"Judgement, but used by someone evil\"?",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:21.738000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "What if Humanity did an Ark Ship kinda dealie thing?  Loaded up a spaceship with Earth stuff and sent it across the galaxy.",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:36.151000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "@kelllogo Judgement?",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:43.524000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "Damnation?",
-        "edited": null
-      },
-      {
-        "author_id": "303605711915712512",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:43:55.093000+00:00",
-        "author": "kelllogo",
-        "authorcolor": "#71368A",
-        "content": "The Ability that saps MM from the defender.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:06.082000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "If Gaia dies, but humanity survives and manages to re-settle a planet, then Gaia's soul would be able to 'possess' the new planet and turn it into a new body.",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:07.828000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "@kelllogo no, I mean, Judgement.",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:16.629000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "Or maybe Damnation would be the evil version of Smite.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:28.513000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Functionally ressurrecting her.",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:38.576000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "Hoo boy.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:41.854000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Hey, look what I re-found.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:42.909000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "https://www.fanfiction.net/s/5002293/1/A-Protector-s-Pride",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:46.595000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "Question though.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:44:48.990000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "?",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:45:12.809000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "If you loaded up a spaceship with earth biosphere, what would happen?",
-        "edited": null
-      },
-      {
-        "author_id": "121424851960332288",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:45:30.954000+00:00",
-        "author": "TheBiggerFish",
-        "authorcolor": null,
-        "content": "(and sent it somewhere.)",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:45:33.431000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "What if that new planet already had a soul?",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:45:39.866000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Nothing. The Biosphere isn't Gaia.",
-        "edited": null
-      },
-      {
         "author_id": "131939026897862656",
         "attachments": [],
-        "timestamp": "2017-11-01T04:45:49.117000+00:00",
         "author": "Mellithae",
         "authorcolor": null,
-        "content": "It(judgement(and smite)) nullifies defenses if someone has 2 negative(evil) affinities.\nThe question Kellogo is asking is what the ability that does the same, but if they have 2 positive affinities",
+        "timestamp": "2017-11-01T04:43:09.596000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:46:01.944000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "If the new planet has a soul, then it'd come down to whose soul is stronger.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:46:45.599000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Negative Affinities don't have a Judgement counterpart. Unless you count Auto Kill, which is mostly retricted to negative affinities.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:46:59.467000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Or Sudden Death anyway.",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:48:29.886000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "You didn't answer my question from the thread about whether stereotypical depictions of Fallen Angels (black wings and all) would be Angels or Demons here.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:48:42.708000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "I know I didn't.",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:48:56.728000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "Never considered it?",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:49:04.947000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "So don't have an answer",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:49:10.759000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "No, more spoilers.",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:49:15.005000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "Ahh",
-        "edited": null
-      },
-      {
-        "author_id": "303601189092851714",
-        "attachments": [],
-        "timestamp": "2017-11-01T04:49:47.529000+00:00",
-        "author": "Vertex",
-        "authorcolor": null,
-        "content": "That is not the kind of thing I expected to be relevant in any way. Thought it was just a silly worldbuilding question",
-        "edited": null
-      },
-      {
+        "content": "Is there a term for \"Judgement, but used by someone evil\"?",
         "author_id": "303605711915712512",
         "attachments": [],
-        "timestamp": "2017-11-01T04:51:52.537000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": "...\nI may need a different image...",
+        "timestamp": "2017-11-01T04:43:17.835000+00:00",
         "edited": null
       },
       {
+        "content": "What if Humanity did an Ark Ship kinda dealie thing?  Loaded up a spaceship with Earth stuff and sent it across the galaxy.",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:43:21.738000+00:00",
+        "edited": null
+      },
+      {
+        "content": "@kelllogo Judgement?",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:43:36.151000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Damnation?",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:43:43.524000+00:00",
+        "edited": null
+      },
+      {
+        "content": "The Ability that saps MM from the defender.",
+        "author_id": "303605711915712512",
+        "attachments": [],
+        "author": "kelllogo",
+        "authorcolor": "#71368A",
+        "timestamp": "2017-11-01T04:43:55.093000+00:00",
+        "edited": null
+      },
+      {
+        "content": "If Gaia dies, but humanity survives and manages to re-settle a planet, then Gaia's soul would be able to 'possess' the new planet and turn it into a new body.",
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T04:52:04.057000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:44:06.082000+00:00",
+        "edited": null
+      },
+      {
+        "content": "@kelllogo no, I mean, Judgement.",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:44:07.828000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Or maybe Damnation would be the evil version of Smite.",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:44:16.629000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Functionally ressurrecting her.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:44:28.513000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Hoo boy.",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:44:38.576000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Hey, look what I re-found.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:44:41.854000+00:00",
+        "edited": null
+      },
+      {
+        "content": "https://www.fanfiction.net/s/5002293/1/A-Protector-s-Pride",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:44:42.909000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Question though.",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:44:46.595000+00:00",
+        "edited": null
+      },
+      {
         "content": "?",
-        "edited": null
-      },
-      {
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T04:52:15.471000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "What did you do Kel?",
+        "timestamp": "2017-11-01T04:44:48.990000+00:00",
         "edited": null
       },
       {
+        "content": "If you loaded up a spaceship with earth biosphere, what would happen?",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:45:12.809000+00:00",
+        "edited": null
+      },
+      {
+        "content": "(and sent it somewhere.)",
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:45:30.954000+00:00",
+        "edited": null
+      },
+      {
+        "content": "What if that new planet already had a soul?",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:45:33.431000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Nothing. The Biosphere isn't Gaia.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:45:39.866000+00:00",
+        "edited": null
+      },
+      {
+        "content": "It(judgement(and smite)) nullifies defenses if someone has 2 negative(evil) affinities.\nThe question Kellogo is asking is what the ability that does the same, but if they have 2 positive affinities",
+        "author_id": "131939026897862656",
+        "attachments": [],
+        "author": "Mellithae",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:45:49.117000+00:00",
+        "edited": null
+      },
+      {
+        "content": "If the new planet has a soul, then it'd come down to whose soul is stronger.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:46:01.944000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Negative Affinities don't have a Judgement counterpart. Unless you count Auto Kill, which is mostly retricted to negative affinities.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:46:45.599000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Or Sudden Death anyway.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:46:59.467000+00:00",
+        "edited": null
+      },
+      {
+        "content": "You didn't answer my question from the thread about whether stereotypical depictions of Fallen Angels (black wings and all) would be Angels or Demons here.",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:48:29.886000+00:00",
+        "edited": null
+      },
+      {
+        "content": "I know I didn't.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:48:42.708000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Never considered it?",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:48:56.728000+00:00",
+        "edited": null
+      },
+      {
+        "content": "So don't have an answer",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:49:04.947000+00:00",
+        "edited": null
+      },
+      {
+        "content": "No, more spoilers.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:49:10.759000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Ahh",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:49:15.005000+00:00",
+        "edited": null
+      },
+      {
+        "content": "That is not the kind of thing I expected to be relevant in any way. Thought it was just a silly worldbuilding question",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T04:49:47.529000+00:00",
+        "edited": null
+      },
+      {
+        "content": "...\nI may need a different image...",
+        "author_id": "303605711915712512",
+        "attachments": [],
+        "author": "kelllogo",
+        "authorcolor": "#71368A",
+        "timestamp": "2017-11-01T04:51:52.537000+00:00",
+        "edited": null
+      },
+      {
+        "content": "?",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:52:04.057000+00:00",
+        "edited": null
+      },
+      {
+        "content": "What did you do Kel?",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T04:52:15.471000+00:00",
+        "edited": null
+      },
+      {
+        "content": "",
         "author_id": "303605711915712512",
         "attachments": [
           {
@@ -433,409 +434,409 @@
             "url": "https://cdn.discordapp.com/attachments/303583665525358596/375145193835331585/13165993_852621504844060_6120550811815844559_n.jpg"
           }
         ],
-        "timestamp": "2017-11-01T04:53:04.189000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": "",
+        "timestamp": "2017-11-01T04:53:04.189000+00:00",
         "edited": null
       },
       {
+        "content": "Is that gabriel's costum?",
         "author_id": "131939026897862656",
         "attachments": [],
-        "timestamp": "2017-11-01T04:53:19.827000+00:00",
         "author": "Mellithae",
         "authorcolor": null,
-        "content": "Is that gabriel's costum?",
+        "timestamp": "2017-11-01T04:53:19.827000+00:00",
         "edited": null
       },
       {
+        "content": "Finding female demons in armor is hard...",
         "author_id": "303605711915712512",
         "attachments": [],
-        "timestamp": "2017-11-01T04:53:24.437000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": "Finding female demons in armor is hard...",
+        "timestamp": "2017-11-01T04:53:24.437000+00:00",
         "edited": null
       },
       {
+        "content": "Might still be usable for you. Depending on what you were planning with it.",
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T04:55:40.118000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "Might still be usable for you. Depending on what you were planning with it.",
+        "timestamp": "2017-11-01T04:55:40.118000+00:00",
         "edited": null
       },
       {
+        "content": ":Pacman: I was kinda leaning hard on the \"Dark Angel\" vibe when I put the stats together. I could redo since only one of the spells is important, but then I'd need to try digging for an image that's postable again.",
         "author_id": "303605711915712512",
         "attachments": [],
-        "timestamp": "2017-11-01T04:58:04.040000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": ":Pacman: I was kinda leaning hard on the \"Dark Angel\" vibe when I put the stats together. I could redo since only one of the spells is important, but then I'd need to try digging for an image that's postable again.",
+        "timestamp": "2017-11-01T04:58:04.040000+00:00",
         "edited": null
       },
       {
+        "content": "```Y\u016bki Y\u016bna - Today at 9:49 PM\nNo, more spoilers.\n\nVertex - Today at 9:49 PM\nAhh\nThat is not the kind of thing I expected to be relevant in any way. Thought it was just a silly worldbuilding question```\\*\"DOOOOOM!\"s ominously in the distance*",
         "author_id": "258108998891339777",
         "attachments": [],
-        "timestamp": "2017-11-01T04:58:32.166000+00:00",
         "author": "LostDeviljho",
         "authorcolor": "#B30059",
-        "content": "```Y\u016bki Y\u016bna - Today at 9:49 PM\nNo, more spoilers.\n\nVertex - Today at 9:49 PM\nAhh\nThat is not the kind of thing I expected to be relevant in any way. Thought it was just a silly worldbuilding question```\\*\"DOOOOOM!\"s ominously in the distance*",
+        "timestamp": "2017-11-01T04:58:32.166000+00:00",
         "edited": null
       },
       {
+        "content": "*points*",
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T04:59:49.920000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "*points*",
+        "timestamp": "2017-11-01T04:59:49.920000+00:00",
         "edited": null
       },
       {
+        "content": "Maybe I can make her a nightmare...",
         "author_id": "303605711915712512",
         "attachments": [],
-        "timestamp": "2017-11-01T05:00:44.931000+00:00",
         "author": "kelllogo",
         "authorcolor": "#71368A",
-        "content": "Maybe I can make her a nightmare...",
+        "timestamp": "2017-11-01T05:00:44.931000+00:00",
         "edited": null
       },
       {
+        "content": "`Finding female demons in armor is hard...`\nFinding female in armor is hard.",
         "author_id": "189916985528680448",
         "attachments": [],
-        "timestamp": "2017-11-01T05:01:10.236000+00:00",
         "author": "Alphaleph",
         "authorcolor": null,
-        "content": "`Finding female demons in armor is hard...`\nFinding female in armor is hard.",
+        "timestamp": "2017-11-01T05:01:10.236000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:05:26.129000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "^^^",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:05:26.129000+00:00",
         "edited": null
       },
       {
+        "content": "one quick google:\nhttps://www.google.com/search?q=woman+in+armor&rlz=1C1AVNE_enUS676US721&source=lnms&tbm=isch&sa=X&ved=0ahUKEwirwq_6zZzXAhVFx2MKHXNXDv0Q_AUICigB&biw=1055&bih=668",
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T05:09:38.978000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "one quick google:\nhttps://www.google.com/search?q=woman+in+armor&rlz=1C1AVNE_enUS676US721&source=lnms&tbm=isch&sa=X&ved=0ahUKEwirwq_6zZzXAhVFx2MKHXNXDv0Q_AUICigB&biw=1055&bih=668",
+        "timestamp": "2017-11-01T05:09:38.978000+00:00",
         "edited": "2017-11-01T05:09:46.121000+00:00"
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:14:32.350000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "now",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:14:32.350000+00:00",
         "edited": null
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:14:50.172000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "and GOT kinda helps",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:14:50.172000+00:00",
         "edited": null
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:14:56.469000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "before that all we've got is",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:14:56.469000+00:00",
         "edited": null
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:14:57.189000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "https://seanxconklin.files.wordpress.com/2014/07/female-warrior.jpg",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:14:57.189000+00:00",
         "edited": null
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:15:19.119000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "or that one DA guy.",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:15:19.119000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:15:23.093000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "Actually I got a question @kelllogo",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:15:23.093000+00:00",
         "edited": null
       },
       {
-        "author_id": "189916985528680448",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:15:24.392000+00:00",
-        "author": "Alphaleph",
-        "authorcolor": null,
         "content": "nebezkial or something.",
-        "edited": null
-      },
-      {
-        "author_id": "303605711915712512",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:15:39.543000+00:00",
-        "author": "kelllogo",
-        "authorcolor": "#71368A",
-        "content": "oh?",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:16:14.749000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Are you trying to make an anti-angel demon? If so I left a copy of that thing's shet in my convo with justin for my Hellfire Run notes.",
-        "edited": null
-      },
-      {
-        "author_id": "303605711915712512",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:17:18.366000+00:00",
-        "author": "kelllogo",
-        "authorcolor": "#71368A",
-        "content": "Not quite...\nI'm hesitant to explain exactly what she's for, but it's not just to beat up Angels.",
-        "edited": null
-      },
-      {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:19:57.090000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
-        "content": "PM him",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:28:56.704000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "Oh god we ran out of milk",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:01.918000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "There's nothing left to drink",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:05.046000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "So... thirsty...",
-        "edited": null
-      },
-      {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:22.012000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
-        "content": "RIP",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:36.344000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "<.<",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:42.391000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "/pity",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:29:50.970000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "Looks like I have none.",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:30:18.688000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "OH SHIT NOVEMBER IS IN LIKE THREE HOURS FUCK FUCK FUCK",
-        "edited": null
-      },
-      {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:33:50.449000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
-        "content": "two",
-        "edited": null
-      },
-      {
-        "author_id": "303605711915712512",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:34:10.604000+00:00",
-        "author": "kelllogo",
-        "authorcolor": "#71368A",
-        "content": "Dark Angel sheet is in the crazy PM thread.",
-        "edited": null
-      },
-      {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:34:27.299000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
-        "content": "lol",
-        "edited": null
-      },
-      {
         "author_id": "189916985528680448",
         "attachments": [],
-        "timestamp": "2017-11-01T05:40:23.137000+00:00",
         "author": "Alphaleph",
         "authorcolor": null,
-        "content": "It's November here.",
+        "timestamp": "2017-11-01T05:15:24.392000+00:00",
         "edited": null
       },
       {
+        "content": "oh?",
+        "author_id": "303605711915712512",
+        "attachments": [],
+        "author": "kelllogo",
+        "authorcolor": "#71368A",
+        "timestamp": "2017-11-01T05:15:39.543000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Are you trying to make an anti-angel demon? If so I left a copy of that thing's shet in my convo with justin for my Hellfire Run notes.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:16:14.749000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Not quite...\nI'm hesitant to explain exactly what she's for, but it's not just to beat up Angels.",
+        "author_id": "303605711915712512",
+        "attachments": [],
+        "author": "kelllogo",
+        "authorcolor": "#71368A",
+        "timestamp": "2017-11-01T05:17:18.366000+00:00",
+        "edited": null
+      },
+      {
+        "content": "PM him",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:19:57.090000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Oh god we ran out of milk",
         "author_id": "167563620568268801",
         "attachments": [],
-        "timestamp": "2017-11-01T05:45:30.931000+00:00",
         "author": "Jessica Holly",
         "authorcolor": null,
+        "timestamp": "2017-11-01T05:28:56.704000+00:00",
+        "edited": null
+      },
+      {
+        "content": "There's nothing left to drink",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:29:01.918000+00:00",
+        "edited": null
+      },
+      {
+        "content": "So... thirsty...",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:29:05.046000+00:00",
+        "edited": null
+      },
+      {
+        "content": "RIP",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:29:22.012000+00:00",
+        "edited": null
+      },
+      {
+        "content": "<.<",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:29:36.344000+00:00",
+        "edited": null
+      },
+      {
+        "content": "/pity",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:29:42.391000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Looks like I have none.",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:29:50.970000+00:00",
+        "edited": null
+      },
+      {
+        "content": "OH SHIT NOVEMBER IS IN LIKE THREE HOURS FUCK FUCK FUCK",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:30:18.688000+00:00",
+        "edited": null
+      },
+      {
+        "content": "two",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:33:50.449000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Dark Angel sheet is in the crazy PM thread.",
+        "author_id": "303605711915712512",
+        "attachments": [],
+        "author": "kelllogo",
+        "authorcolor": "#71368A",
+        "timestamp": "2017-11-01T05:34:10.604000+00:00",
+        "edited": null
+      },
+      {
+        "content": "lol",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T05:34:27.299000+00:00",
+        "edited": null
+      },
+      {
+        "content": "It's November here.",
+        "author_id": "189916985528680448",
+        "attachments": [],
+        "author": "Alphaleph",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:40:23.137000+00:00",
+        "edited": null
+      },
+      {
         "content": "Time to come up with a _shit_ load of names",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:45:30.931000+00:00",
         "edited": "2017-11-01T05:45:36.621000+00:00"
       },
       {
+        "content": "Oh, it's November.",
         "author_id": "121424851960332288",
         "attachments": [],
-        "timestamp": "2017-11-01T05:45:40.862000+00:00",
         "author": "TheBiggerFish",
         "authorcolor": null,
-        "content": "Oh, it's November.",
+        "timestamp": "2017-11-01T05:45:40.862000+00:00",
         "edited": null
       },
       {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:45:56.735000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
         "content": "```Time to come up with a shit load of names```???",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:45:56.735000+00:00",
         "edited": null
       },
       {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:46:16.761000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
         "content": "Nanowrimo",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T05:46:16.761000+00:00",
         "edited": null
       },
       {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:46:21.750000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
         "content": "ah",
-        "edited": null
-      },
-      {
         "author_id": "258108998891339777",
         "attachments": [],
-        "timestamp": "2017-11-01T05:49:00.361000+00:00",
         "author": "LostDeviljho",
         "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:46:21.750000+00:00",
+        "edited": null
+      },
+      {
         "content": "welcome to the server @VebBot",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T05:49:00.361000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T05:49:45.083000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "I still got 11 minutes",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:37:21.616000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "You know",
-        "edited": null
-      },
-      {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:37:35.418000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
-        "content": "There's no reason I can't do this tomorrow",
-        "edited": null
-      },
-      {
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T06:37:52.915000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "Procrastination loop, go!",
+        "timestamp": "2017-11-01T05:49:45.083000+00:00",
         "edited": null
       },
       {
+        "content": "You know",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T06:37:21.616000+00:00",
+        "edited": null
+      },
+      {
+        "content": "There's no reason I can't do this tomorrow",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T06:37:35.418000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Procrastination loop, go!",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T06:37:52.915000+00:00",
+        "edited": null
+      },
+      {
+        "content": "/yamato",
         "author_id": "189916985528680448",
         "attachments": [],
-        "timestamp": "2017-11-01T06:40:16.975000+00:00",
         "author": "Alphaleph",
         "authorcolor": null,
-        "content": "/yamato",
+        "timestamp": "2017-11-01T06:40:16.975000+00:00",
         "edited": null
       },
       {
+        "content": "",
         "author_id": "189628169299427328",
         "attachments": [
           {
@@ -843,148 +844,148 @@
             "url": "https://cdn.discordapp.com/attachments/303583665525358596/375172176082632704/yamato.jpg"
           }
         ],
-        "timestamp": "2017-11-01T06:40:17.140000+00:00",
         "author": "FirnBot",
         "authorcolor": null,
-        "content": "",
+        "timestamp": "2017-11-01T06:40:17.140000+00:00",
         "edited": null
       },
       {
-        "author_id": "167563620568268801",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:40:37.883000+00:00",
-        "author": "Jessica Holly",
-        "authorcolor": null,
         "content": "All I need to do is write 1,667 words every day",
-        "edited": null
-      },
-      {
         "author_id": "167563620568268801",
         "attachments": [],
-        "timestamp": "2017-11-01T06:41:21.667000+00:00",
         "author": "Jessica Holly",
         "authorcolor": null,
+        "timestamp": "2017-11-01T06:40:37.883000+00:00",
+        "edited": null
+      },
+      {
         "content": "But that doesn't mean I can't write up the character sheets in the meanwhile",
+        "author_id": "167563620568268801",
+        "attachments": [],
+        "author": "Jessica Holly",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T06:41:21.667000+00:00",
         "edited": null
       },
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:56:45.078000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "Quotebot is fully operational!",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T06:56:45.078000+00:00",
         "edited": null
       },
       {
-        "author_id": "248980478416125952",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:56:53.157000+00:00",
-        "author": "vebyast",
-        "authorcolor": null,
         "content": "And now I need to go sleeeeeeeeeeeeeeeeep. -___-",
-        "edited": null
-      },
-      {
         "author_id": "248980478416125952",
         "attachments": [],
-        "timestamp": "2017-11-01T06:57:08.968000+00:00",
         "author": "vebyast",
         "authorcolor": null,
-        "content": "@VebBot /help",
+        "timestamp": "2017-11-01T06:56:53.157000+00:00",
         "edited": null
       },
       {
+        "content": "@VebBot /help",
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "author": "vebyast",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T06:57:08.968000+00:00",
+        "edited": null
+      },
+      {
+        "content": "```usage: @vebyast-quote-bot-toho /command [arguments]\n\nA bot for saving quotes from a discord server.\n\nAvailable commands:\n\n  /add            Add a quote to the database\n  /remove         Remove a quote from the database\n  /get            Print out a quote from the database\n  /clean          Clean up this bot's output\n  /help           Output this message\n\nIssue \"@vebyast-quote-bot-toho /command --help\" for help with each individual command.\n\nQuotes uploaded using this bot can be viewed at https://vebyast.github.io/toho-discord-quotes/.\n```",
         "author_id": "375157217512652801",
         "attachments": [],
-        "timestamp": "2017-11-01T06:57:08.968000+00:00",
         "author": "VebBot",
         "authorcolor": null,
-        "content": "```usage: @vebyast-quote-bot-toho /command [arguments]\n\nA bot for saving quotes from a discord server.\n\nAvailable commands:\n\n  /add            Add a quote to the database\n  /remove         Remove a quote from the database\n  /get            Print out a quote from the database\n  /clean          Clean up this bot's output\n  /help           Output this message\n\nIssue \"@vebyast-quote-bot-toho /command --help\" for help with each individual command.\n\nQuotes uploaded using this bot can be viewed at https://vebyast.github.io/toho-discord-quotes/.\n```",
+        "timestamp": "2017-11-01T06:57:08.968000+00:00",
         "edited": "2017-11-01T06:57:09.113000+00:00"
       },
       {
-        "author_id": "258108998891339777",
-        "attachments": [],
-        "timestamp": "2017-11-01T06:57:12.064000+00:00",
-        "author": "LostDeviljho",
-        "authorcolor": "#B30059",
         "content": "Yay!",
-        "edited": null
-      },
-      {
         "author_id": "258108998891339777",
         "attachments": [],
-        "timestamp": "2017-11-01T06:57:14.930000+00:00",
         "author": "LostDeviljho",
         "authorcolor": "#B30059",
-        "content": "nite Veb",
+        "timestamp": "2017-11-01T06:57:12.064000+00:00",
         "edited": null
       },
       {
+        "content": "nite Veb",
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "timestamp": "2017-11-01T06:57:14.930000+00:00",
+        "edited": null
+      },
+      {
+        "content": "G'night! \ud83d\ude04",
         "author_id": "248980478416125952",
         "attachments": [],
-        "timestamp": "2017-11-01T06:57:20.948000+00:00",
         "author": "vebyast",
         "authorcolor": null,
-        "content": "G'night! \ud83d\ude04",
+        "timestamp": "2017-11-01T06:57:20.948000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T07:01:44.606000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T07:01:44.606000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T08:19:59.012000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "Anyway",
-        "edited": null
-      },
-      {
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T08:20:01.301000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "Going to bed",
+        "timestamp": "2017-11-01T08:19:59.012000+00:00",
         "edited": null
       },
       {
+        "content": "Going to bed",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T08:20:01.301000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Good night.",
         "author_id": "275015668619935745",
         "attachments": [],
-        "timestamp": "2017-11-01T08:20:11.306000+00:00",
         "author": "Naro-Wumpus",
         "authorcolor": null,
-        "content": "Good night.",
+        "timestamp": "2017-11-01T08:20:11.306000+00:00",
         "edited": null
       },
       {
-        "author_id": "289686843270627328",
-        "attachments": [],
-        "timestamp": "2017-11-01T08:20:11.525000+00:00",
-        "author": "Y\u016bki Y\u016bna",
-        "authorcolor": "#F1C40F",
         "content": "Night, ya'll.",
-        "edited": null
-      },
-      {
         "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T08:20:15.299000+00:00",
         "author": "Y\u016bki Y\u016bna",
         "authorcolor": "#F1C40F",
-        "content": "/deusvult",
+        "timestamp": "2017-11-01T08:20:11.525000+00:00",
         "edited": null
       },
       {
+        "content": "/deusvult",
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "timestamp": "2017-11-01T08:20:15.299000+00:00",
+        "edited": null
+      },
+      {
+        "content": "",
         "author_id": "189628169299427328",
         "attachments": [
           {
@@ -992,37 +993,972 @@
             "url": "https://cdn.discordapp.com/attachments/303583665525358596/375197335182901248/desuvult.jpg"
           }
         ],
+        "author": "FirnBot",
+        "authorcolor": null,
         "timestamp": "2017-11-01T08:20:15.537000+00:00",
+        "edited": null
+      },
+      {
+        "content": "What kind of being would get a spell like this?\n```True Damage\nLevel 10\nBase Damage: 10\nMagic Modifier: N/A\nAbility: Unstoppable | Supremacy```",
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "author": "Vertex",
+        "authorcolor": null,
+        "timestamp": "2017-11-01T13:22:21.452000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Ooh, Vebbot's here.",
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "timestamp": "2017-11-01T17:34:56.760000+00:00",
+        "edited": null
+      },
+      {
+        "content": "Now I can begin trawling this server for hours on end for those hidden scraps of minute lore.",
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "timestamp": "2017-11-01T17:35:31.069000+00:00",
+        "edited": null
+      }
+    ]
+  },
+  {
+    "id": "375343314951471105",
+    "quoted": "2017-11-01T18:00:20.290240",
+    "server": "Throne of Heroes Online",
+    "channel": "nepgearquest",
+    "lines": [
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-04-17T22:59:53.749000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "Can I just say, I'm super hyped about some of the stuff in store down the line?",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:39:50.991000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "like, Kell initially thought Skill Negation = Dodge Evasion and vice versa, while mechanically they're different things",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:39:56.311000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "stuff like that",
+        "edited": null
+      },
+      {
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:40:44.112000+00:00",
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "content": "Hmm. Maybe I'll examine those, as well. I have a *very* loose understanding of what's under the hood.",
+        "edited": "2017-10-31T22:41:03.387000+00:00"
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:41:28.550000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "something something have you read the mathpost?",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:41:43.747000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "Because that's really the fundamentals",
+        "edited": null
+      },
+      {
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:42:16.749000+00:00",
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "content": "I will... one day. Eventually.",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:43:08.644000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "honestly",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:43:57.128000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "if you've read the methpost and ability bible then you're... probably equipped to run a quest with something close to the CMGQ system",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:44:32.290000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "they're not nearly so comprehensive as to be fully accurate, but it'd be recognizeable as the same base",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:46:56.144000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "@Familiar's Spirit Whoops, sorry, missed that notification!",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:47:12.958000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "@Familiar's Spirit Yes, you *should* be able to use the quote database if you lose your connection after loading it.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:47:38.514000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "It reads the entire database into memory when you open the page and does searching and pagination locally.",
+        "edited": null
+      },
+      {
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:48:01.627000+00:00",
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "content": "Cool, that's really convenient.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:49:03.398000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "The quote-bot is currently a totally static webpage - there's no intelligent server in the background that knows what's going on, it's a pure unchanging asset storage and *all* of the actual work is done in the browser once the data has been retrieved.",
+        "edited": "2017-10-31T22:49:40.480000+00:00"
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:51:03.896000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "If I change that in the future, I'll provide a button you can press or something to regain that functionality.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:52:04.341000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "I only started doing web development stuff recently and I'm *very* surprised at how commonly requested that feature is, but it's not actually that difficult to add as long as you keep it in mind from the very beginning.",
+        "edited": null
+      },
+      {
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:53:36.095000+00:00",
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "content": "Alright, then. Thanks for confirmation on that.",
+        "edited": null
+      },
+      {
+        "author_id": "294573062136004608",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:57:14.194000+00:00",
+        "author": "Familiar's Spirit",
+        "authorcolor": "#E42217",
+        "content": "So if I'm understanding the instructions that LDj posted, the command for the general channel would be something like\n@vebyast-quote-bot-toho /add -S 303595077995986944 -E 375047093284241428 -c #general",
+        "edited": "2017-10-31T23:03:06.172000+00:00"
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:59:03.189000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "Take off the parentheses, I'm not sure if it'd handle those. The square brackets around the `-c channel` indicate that that argument is optional, I should probably clarify that. The channel name should be a hash-prefixed clickable pointer, like #general.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T22:59:39.930000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "Capital S and E are correct, looks like you figured out how to get IDs, you have arguments put together properly.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T23:00:02.826000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "You'll need to address the bot directly, something like:\n\n@vebyast-quote-bot-toho /add ....",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-10-31T23:00:51.332000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "can we give the bot a shorter nickname?",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T23:00:53.090000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "Again, getting a clickable user-mention is necessary; I didn't want it going off randomly or colliding with other bots' slash-commands.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T23:01:05.142000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "I... think so, yes.",
+        "edited": null
+      },
+      {
+        "author_id": "248980478416125952",
+        "attachments": [],
+        "timestamp": "2017-10-31T23:01:51.645000+00:00",
+        "author": "vebyast",
+        "authorcolor": null,
+        "content": "I think that it would *not* tolerate a role, but it *would* tolerate a nickname. I guess I'll add role-handling to the feature list.",
+        "edited": "2017-10-31T23:02:02.152000+00:00"
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:07:49.708000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "```Said overpowered Magical Girl is dressed in an elaborate kimono dressed up to look like a burial gown. Beside her, Ichi and Ni are setting up a massive selection of pies and treats across the table with a bit of help of Ni's skeletal Spawn, one wearing a large carved pumpkin on it's head.\n\nJames, Sam, and Mike are all dressed like necromorphs from that new space-horror game that never got a sequel thanks to the War. Gabriel is working with Lucky to dress up the hummer with Halloween paraphernalia, the Angel with her wings temporarily died black, with a lot more makeup making her look as if massive portions of her body were ready to rot off at any second. Your Fairy companion on the other hand had decided to dress up in the most over the top fairy costume you've ever seen: Extra glitter on her wings, soft -almost sheer- green mini dress, with fluffy wig and antenna hairband.\n\nFrom there is your sister and Rev, both dressed up in matching Witchblade costumes that barely covered anything, and talking excitedly about something. Uni, beside them, is dressed up like a dark elf bandit from Dungeons & Dragons and trying to diffuse whatever plan your sister was getting up to. Alex and San, the last two, were setting up some punch on a second table you missed during your first pass over. Alex is dressed in a cheesy witch costume that made her seem almost three times 'bigger' then she actually was -which was saying something- while San in turn had dressed herself up like Storm from the X-Men.```",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:08:41.192000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "`a bit of help of Ni's skeletal Spawn`\nhelp from",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:09:22.851000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "ty",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:09:51.528000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "*Is imagining Rei in a kimono*",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:10:01.708000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Not sure how I feel about this",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:10:14.016000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "lol",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:10:30.548000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "She usually wears blouses and hot pants.",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:10:45.063000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "She decided to be a smart ass.",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:11:49.666000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "```blouses and hot pants.```\nDefinitely not sure how I feel about this",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:11:53.768000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "Was Sam the one with a succubus girlfriend?",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:12:39.271000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Yes.",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:13:13.663000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Sam is the lucky asshole in Team GEAR",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:13:19.778000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "He's got it all man",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:13:58.694000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Hot girlfriend, awesome magic, huuuuge powerup from Nepgear, and lots of asses of kick",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:07.517000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "https://i.imgur.com/ANtij5e.jpg",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:13.475000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "Kimono",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:14.952000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "She wouldn't even need a Halloween costume",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:23.681000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "^^^",
+        "edited": "2017-11-01T01:14:25.668000+00:00"
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:29.059000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "^^^",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:14:49.469000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Goddess Four be scary yo",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:02.711000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "Succubus = I am Halloween",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:04.679000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "```\"You're not.\" A new commanding voice draws everyone's attention as Commander Mason swaggers - literally swaggers - up to you all. The man has most of his muscular body painted blue, with darker blue pants held up by a red sash and brown shoes. He grins with white teeth, \"You all know your rolls?\"```",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:27.655000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "Rolls or roles?",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:30.323000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "```rolls```",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:33.439000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "roles brah",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:47.911000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "fixed <.<",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:48.601000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "And who is Mason cosplaying as?",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:15:54.094000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Genie.",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:16:05.184000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "...",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:16:06.179000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Why would he choose Genie?",
+        "edited": "2017-11-01T01:16:24.206000+00:00"
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [
+          {
+            "filename": "AladdinGenieKitchenSink.png",
+            "url": "https://cdn.discordapp.com/attachments/303584014193917952/375090625370128405/AladdinGenieKitchenSink.png"
+          }
+        ],
+        "timestamp": "2017-11-01T01:16:14.058000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:16:42.047000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "I know who he is. I've seen Aladdin, even if it has been a decade.",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:16:45.642000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "So why Genie?",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:16:52.701000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "just 'cause",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:17:04.019000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Also lets him walk around shirtless without getting yelled at.",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:18:13.869000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Don't take this one too seriously. I'm planning on having it get out of hand pretty quickly.",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:18:32.440000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "It's going to end up in the PIT isn't it",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:18:44.751000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "honestly though",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:18:48.188000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "No. But a few bonus scenes might.",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:18:54.348000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "https://i.imgur.com/3OIBAtM.jpg",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:19:03.037000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "Rei should just be magic Rei",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:19:22.729000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "that concept art, or fan art?",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:19:29.908000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "fanart",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:19:53.036000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "as far as I'm aware there's only one piece of even semi-official fem-gil art",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:20:12.993000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "Unless you count Angelica Ainsworth",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:20:14.006000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "And that's being used as her character picture IIRC",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:20:21.843000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "that too",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:20:33.492000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "I don't, and yes it is",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:20:37.203000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "I don't count Angelica",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:21:04.085000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "She's probably the closest we'll ever get to official art though",
+        "edited": null
+      },
+      {
+        "author_id": "303601189092851714",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:21:30.021000+00:00",
+        "author": "Vertex",
+        "authorcolor": null,
+        "content": "Unless Gil ever gets some *weird* reason to pull a genderbend potion out of the Gate.",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:21:58.417000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "Last ditch resort or him losing a bet",
+        "edited": null
+      },
+      {
+        "author_id": "291885296331653121",
+        "attachments": [],
+        "timestamp": "2017-11-01T01:22:03.218000+00:00",
+        "author": "Decim",
+        "authorcolor": "#E42217",
+        "content": "calling it now",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:11:30.893000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "```\"Nah, we got it.\" Sega gives him a thumbs-up. \"Nothing will go wrong with us here!\"\n\nYou facepalm.```",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:11:35.377000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Sega... why?",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:12:11.103000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "/because",
+        "edited": null
+      },
+      {
+        "author_id": "189628169299427328",
+        "attachments": [
+          {
+            "filename": "because.jpg",
+            "url": "https://cdn.discordapp.com/attachments/303584014193917952/375104706772467713/because.jpg"
+          }
+        ],
+        "timestamp": "2017-11-01T02:12:11.203000+00:00",
         "author": "FirnBot",
         "authorcolor": null,
         "content": "",
         "edited": null
       },
       {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:12:37.505000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Anyway, short almost done. Just writing out a short scene for some of the aftermath.",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:12:51.197000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Want me to send it to the typo shack Lost?",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:14:13.727000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "sure \u00af\\_(\u30c4)_/\u00af",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:14:50.309000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "If you don't want to I'll just put it into the thread.",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:14:58.634000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "I don't really care.",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:15:07.605000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "It's just supposed to be for fun",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:15:37.986000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "that was supposed to be an affable shrug >_>",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:15:48.694000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "<.< sorry slightly distracted",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:16:15.277000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "I wasn't expecting you to want t typo check but if you do I have no problems with doing one",
+        "edited": null
+      },
+      {
+        "author_id": "258108998891339777",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:16:27.939000+00:00",
+        "author": "LostDeviljho",
+        "authorcolor": "#B30059",
+        "content": "so yeah, whatever you want",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:18:23.348000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "question",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T02:18:55.993000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "```Michael's plastic necromorph claw bursts into flames, from where he strayed too close to the fires. The poor man panickly shaking his arm, trying to put it out.``` is this spelled correctly?",
+        "edited": null
+      },
+      {
         "author_id": "303601189092851714",
         "attachments": [],
-        "timestamp": "2017-11-01T13:22:21.452000+00:00",
+        "timestamp": "2017-11-01T02:19:50.447000+00:00",
         "author": "Vertex",
         "authorcolor": null,
-        "content": "What kind of being would get a spell like this?\n```True Damage\nLevel 10\nBase Damage: 10\nMagic Modifier: N/A\nAbility: Unstoppable | Supremacy```",
+        "content": "I don't think \"panickly\" is a word.",
         "edited": null
       },
       {
-        "author_id": "294573062136004608",
+        "author_id": "289686843270627328",
         "attachments": [],
-        "timestamp": "2017-11-01T17:34:56.760000+00:00",
-        "author": "Familiar's Spirit",
-        "authorcolor": "#E42217",
-        "content": "Ooh, Vebbot's here.",
+        "timestamp": "2017-11-01T02:20:13.086000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "Thought so.",
         "edited": null
       },
       {
-        "author_id": "294573062136004608",
+        "author_id": "131939026897862656",
         "attachments": [],
-        "timestamp": "2017-11-01T17:35:31.069000+00:00",
-        "author": "Familiar's Spirit",
-        "authorcolor": "#E42217",
-        "content": "Now I can begin trawling this server for hours on end for those hidden scraps of minute lore.",
+        "timestamp": "2017-11-01T02:50:36.472000+00:00",
+        "author": "Mellithae",
+        "authorcolor": null,
+        "content": "It's pretty funny",
+        "edited": null
+      },
+      {
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "timestamp": "2017-11-01T04:21:10.868000+00:00",
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "content": "@Y\u016bki Y\u016bna *burst\n*panickedly shook",
+        "edited": null
+      },
+      {
+        "author_id": "121424851960332288",
+        "attachments": [],
+        "timestamp": "2017-11-01T04:21:26.922000+00:00",
+        "author": "TheBiggerFish",
+        "authorcolor": null,
+        "content": "Tenses are a thing.",
+        "edited": null
+      },
+      {
+        "author_id": "289110300366602241",
+        "attachments": [],
+        "timestamp": "2017-11-01T07:10:51.040000+00:00",
+        "author": "Gore17",
+        "authorcolor": "#2ECC71",
+        "content": "so, what was Nepgear wearing?",
+        "edited": null
+      },
+      {
+        "author_id": "289686843270627328",
+        "attachments": [],
+        "timestamp": "2017-11-01T08:19:49.494000+00:00",
+        "author": "Y\u016bki Y\u016bna",
+        "authorcolor": "#F1C40F",
+        "content": "flower monster costume",
         "edited": null
       }
     ]
